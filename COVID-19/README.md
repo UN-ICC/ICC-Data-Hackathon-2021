@@ -4,7 +4,7 @@
 
 There are 4 sources associated to this competition:
 
-- [ECDC (European Centre for Disease Prevention and Control)](European Centre for Disease Prevention and Control)
+- [European Centre for Disease Prevention and Control]("European Centre for Disease Prevention and Control")
 - John Hopkins University
 - New York Times
 - The Covid Tracking Project
