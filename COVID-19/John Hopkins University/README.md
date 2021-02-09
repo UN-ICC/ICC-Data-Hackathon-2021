@@ -4,8 +4,8 @@
 
 2 datasets:
 
-- Global daily reports for Covid-19
-- US-Limited daily reports for Covid-19
+- [Global daily reports for Covid-19](global%20daily%20reports)
+- [US-Limited daily reports for Covid-19](us%20daily%20reports)
 
 This datasets were extracted from the data repository for the 2019 Novel Coronavirus Visual Dashboard operated by the Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE). Also, Supported by ESRI Living Atlas Team and the Johns Hopkins University Applied Physics Lab (JHU APL).
 
