@@ -9,7 +9,7 @@
 
 ##### Structure:
 
-There are 8 different datasets extracted from the ECDC (European Centre for Disease Prevention and Control) platform. You can find a detailed description of each dataset below or refer directly to the (original source)[https://www.ecdc.europa.eu/en/covid-19/data] for further information.
+There are 8 different datasets extracted from the ECDC (European Centre for Disease Prevention and Control) platform. You can find a detailed description of each dataset below or refer directly to the [original source](https://www.ecdc.europa.eu/en/covid-19/data) for further information.
 
 
 
