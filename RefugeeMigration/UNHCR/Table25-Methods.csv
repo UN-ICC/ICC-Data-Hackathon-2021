@@ -1,0 +1,178 @@
+Country/territory of asylum,Refugee data source,Refugee data basis,Type of procedure
+Afghanistan,U,R,U
+Albania,U,R,G
+Algeria,G/U,R/E,U
+Angola,G,R,G
+Antigua and Barbuda,U,R,U
+Argentina,G,R,G
+Armenia,G/U,R/S,G/U
+Aruba,U,R,G
+Australia,G,E,G
+Austria,G,E,G
+Azerbaijan,G/U,R,G/U
+Bahamas,U,R/V,G
+Bahrain,U,R,U
+Bangladesh,U,R,U
+Belarus,G/V,R,G/U
+Belgium,G,R,G
+Belize,G,R,G
+Benin,U,R,G
+Bolivia (Plurinational State of),N,R,G
+Bonaire,U,-,G
+Bosnia and Herzegovina,G,R,G
+Botswana,G/U/N,R,G
+Brazil,G,R,G
+British Virgin Islands,U,R,U
+Bulgaria,G,E,G
+Burkina Faso,G,R,G
+Burundi,U,R,G
+Cambodia,U,R,G
+Cameroon,U,R,U
+Canada,G,E,G
+Cayman Islands,U,R,G
+Central African Rep.,U,R,G
+Chad,U/V,R/V,G/U
+Chile,G/N,E,G
+China,G/U,R,U
+" - Hong Kong SAR, China",U,R,U
+" - Macao SAR, China",U,R,G
+Colombia,G/U/N,V,G
+Comoros,..,..,..
+Congo,U,R,G
+Costa Rica,G/U,R/E,G
+Côte d'Ivoire,U,R,G/U
+Croatia,G,R,G
+Cuba,U,R,U
+Curacao,U,R,U
+Cyprus,G,R,G/U
+Czech Rep.,G,E,G
+Dem. Rep. of the Congo,U,R/V,U
+Denmark,G,E,G
+Djibouti,U,R,U
+Dominica,..,..,U
+Dominican Rep.,U/V,R/E,G
+Ecuador,G,R,G
+Egypt,G/U,R/E,U
+El Salvador,N,R,G
+Equatorial Guinea,..,..,..
+Eritrea,U,E,U
+Estonia,G,R,G
+Ethiopia,U,R,G/U
+Fiji,U,R,G/U
+Finland,G,E,G
+France,G,R,G
+Gabon,G/U/N,R,G
+Pakistan,G/U/V,R,U
+Palau,U,R,U
+Panama,G,R,G
+Papua New Guinea,G/U,R/V,G/U
+Paraguay,N,R,G
+Peru,N,R,G
+Philippines,G,R,G
+Poland,G,E,G
+Portugal,G,E,G
+Qatar,U,R,U
+Rep. of Korea,G,R,G
+Rep. of Moldova,G,R,G
+Romania,G,E,G
+Russian Federation,G/U,R,G
+Rwanda,U,R,G
+Saint Kitts and Nevis,U,R,G/U
+Saint Lucia,U,R,U
+Saint Vincent and the Grenadines,U,R,U
+Saudi Arabia,U,R,U
+Senegal,G/U/N,R/E,G
+Serbia (and Kosovo: S/RES/1244 (1999)),G/U,R/S,G/U
+Sierra Leone,U/V,R,G/U
+Singapore,U,R,U
+Sint Maarten,U,R,U
+Slovakia,G,E,G
+Slovenia,G,R,G
+Somalia,U,R,U
+South Africa,G,E,G
+South Sudan,U,R/E,U
+Spain,G,E,G
+Sri Lanka,U,R,U
+Sudan,G/U,R/V,G/U
+Suriname,G,R,U
+Guyana,U,R,U
+Haiti,U,R,U
+Honduras,N,R,U
+Hungary,G,E,G
+Iceland,G,E,G
+India,G/U,R/E,U
+Indonesia,U,R,U
+Iran (Islamic Rep. of),G/U,R,U
+Iraq,G/U/N,V,U
+Ireland,G,E,G
+Israel,G/U,R/E,G/U
+Italy,G,E,G
+Jamaica,U,R,U
+Japan,G/U,R,G
+Jordan,G/U,R,U
+Kazakhstan,U,C,G/U
+Kenya,U,R,U
+Kuwait,U,R,U
+Kyrgyzstan,G/U/V,R,G/U
+Latvia,G,R,G
+Lebanon,U,R,U
+Lesotho,G,R,G
+Liberia,U,R/E,G/U
+Libya,U/V,R/V,U
+Liechtenstein,G,E,G
+Lithuania,G,R,G
+Luxembourg,G,E,G
+Madagascar,U,R,U
+Malawi,G/U/N,R,G
+Malaysia,U,R,U
+Mali,G,R,G
+Malta,G,E,G
+Mauritania,U,R,U
+Mexico,G,R,G
+Micronesia (Fed. States of),U,V,..
+Monaco,G,R,G
+Mongolia,U,R,U
+Montenegro,G,R,G
+Montserrat,-,-,U
+Morocco,U,R,U
+Mozambique,G,R,G
+Myanmar,-,-,-
+Namibia,U,R,G
+Nepal,G/U,R/E,G/U
+Netherlands,G,E,G
+New Zealand,G,E,G
+Nicaragua,G,R,G
+Niger,G,V,G
+Nigeria,G/U,R,G
+Norway,G,E,G
+Occupied Palestinian Territory,-,-,-
+Oman,U,R,U
+Swaziland,G,R,G
+Sweden,G,R/E,G
+Switzerland,G,R,G
+Syrian Arab Rep.,U,R,U
+Tajikistan,G/U,R,G/U
+The former Yugoslav Republic of Macedonia,U,R,G
+Thailand,U,R,G/U
+Timor-Leste,U,R,G
+Togo,U,R,G
+Tonga,U,R,U
+Trinidad and Tobago,U,R,U
+Tunisia,U/V,R/V,U
+Turkey,U,R,U
+Turkmenistan,U,R,G
+Turks and Caicos Islands,-,-,U
+Uganda,U,C,G
+Ukraine,G/U,R,G/U
+United Arab Emirates,U,R,U
+United Kingdom,G,E,G
+United Rep. of Tanzania,G/U,R/S,G/U
+United States of America,G,E,G
+Uruguay,N,R,G
+Uzbekistan,U,R,-
+Vanuatu,U,R,U
+Venezuela (Boliv. Rep. of),U,R/S,G
+Viet Nam,G,S,-
+Yemen,G/U,R,U
+Zambia,G/U/N,R/E,G
+Zimbabwe,U,R,G
