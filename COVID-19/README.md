@@ -4,7 +4,7 @@
 
 There are 4 sources associated to this competition:
 
-- [European Centre for Disease Prevention and Control]("European Centre for Disease Prevention and Control")
+- [European Centre for Disease Prevention and Control](European%20Centre%20for%20Disease%20Prevention%20and%20Control)
 - John Hopkins University
 - New York Times
 - The Covid Tracking Project
