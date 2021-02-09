@@ -2,7 +2,7 @@
 
 The Challenges 
 
-Challenge 1 - Covid-19 Simulate Pandemic Recovery 
+[Challenge 1 - Covid-19 Simulate Pandemic Recovery ](COVID-19)
 •	The challenge is to analyze patterns related to the Covid-19 spread in a specific region. 
 •	The challenge is to measure effectiveness of stay-at-home orders during the Covid-19 pandemic.
 Ex: Daily mobility data on how many miles were driven within each zip code in the country became a proxy for the effectiveness of the stay-at-home orders.
