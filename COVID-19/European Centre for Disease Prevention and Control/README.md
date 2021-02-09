@@ -13,7 +13,7 @@ There are 8 different datasets extracted from the ECDC (European Centre for Dise
 
 
 
-##### 14_day_age_specific_notification_rate.csv : 
+##### [14_day_age_specific_notification_rate.csv](14_day_age_specific_notification_rate.csv) : 
 
 14-day notification rate of newly reported COVID-19 cases per 100 000 population by age group, week and country. Each row contains the corresponding data for a certain week and country. 
 
@@ -30,7 +30,7 @@ There are 8 different datasets extracted from the ECDC (European Centre for Dise
 | **`source`**               | Source of the information          |
 | **`rate_14_day_per_100k`** | 14 day rate per 100 000 population |
 
-##### country_response_measures.csv : 
+##### [country_response_measures.csv](country_response_measures.csv) : 
 
 Disclaimer: The data on non-pharmaceutical interventions (or response measures) are based on information available from official public sources, and may not capture measures being taken by countries that are not reported on publicly available websites. The situation is evolving rapidly and this represents a snapshot of the measures that countries in the EU/EEA have reported to date. The response measures displayed are national measures, reported on official public websites. Response measures collected include mass gathering cancellations (for specific events or a ban on gatherings of a particular size); closure of public spaces (including restaurants, entertainment venues, non-essential shops, partial or full closure of public transport etc.); closure of educational institutions (including daycare or nursery, primary schools, and secondary schools and higher education); ‘stay-at-home’ recommendations for risk groups or vulnerable populations (such as the elderly, people with underlying health conditions, physically disabled people etc.); ‘stay-at-home’ recommendations for the general population (which are voluntary or not enforced); and ‘stay-at-home’ orders for the general population (these are enforced and also referred to as ‘lockdown’), use of protective masks in public spaces/on public transport (mutually exclusive voluntary recommendations and mandatory obligations shown separately) and also teleworking recommendations/closure of workplaces.
 
@@ -45,7 +45,7 @@ The data on response measures has several limitations. Firstly, there is substan
 | **`date_start`**       | Starting date of the response measure |
 | **`date_end`**         | Ending date of the response measure   |
 
-##### daily_subnational_14_day_notification_rate.csv : 
+##### [daily_subnational_14_day_notification_rate.csv](daily_subnational_14_day_notification_rate.csv) : 
 
 14-day notification rate of new cases per 100 000 inhabitants for COVID-19 by day and subnational region. Each row contains the corresponding data for a certain day and per subnational region. Please note that daily data on cases per subnational region are not available for all countries.
 
@@ -59,7 +59,7 @@ The data on response measures has several limitations. Firstly, there is substan
 | **`date`**                 | Date of the measurement                                      |
 | **`rate_14_day_per_100k`** | 14 day rate per 100 000 population                           |
 
-##### hospital_icu_info.csv : 
+##### [hospital_icu_info.csv](hospital_icu_info.csv) : 
 
 Hospitalisation and Intensive Care Unit (ICU) admission rates and current occupancy for COVID-19 by date and country. Each row contains the corresponding data for a certain date (day or week) and per country.
 
@@ -75,7 +75,7 @@ Hospitalisation and Intensive Care Unit (ICU) admission rates and current occupa
 | **`source`**    | Source of the data                                           |
 | **`url`**       | Link to the data source                                      |
 
-##### national_14_day_notification_rate.csv : 
+##### [national_14_day_notification_rate.csv](national_14_day_notification_rate.csv) : 
 
 14-day notification rate of newly reported COVID-19 cases per 100 000 population and the 14-day notification rate of reported deaths per million population by week and country. Each row contains the corresponding data for a certain day and per country.
 
@@ -94,7 +94,7 @@ Hospitalisation and Intensive Care Unit (ICU) admission rates and current occupa
 | **`source`**           | Source of the data                                           |
 | **`rate_14_day`**      | 14 day rate                                                  |
 
-##### overall_info.csv : 
+##### [overall_info.csv](overall_info.csv) : 
 
 Data on which the maps requested in the Council Recommendation on a coordinated approach to the restriction of free movement in response to the COVID-19 pandemic in EU/EEA are based.
 
@@ -128,7 +128,7 @@ If testing data are available at subnational level, the calculation is done at s
 | **`colour`**                   | Combined indicator colour according to the algorithm described above |
 | **`week`**                     | Week                                                         |
 
-##### testing.csv : 
+##### [testing.csv](testing.csv) : 
 
  Testing volume for COVID-19 by week and country. Each row contains the corresponding data for a country and a week.
 
@@ -151,7 +151,7 @@ The data displayed from public online sources have been automatically or manuall
 | **`positivity_rate`**     | Positivity rate                                              |
 | **`testing_data_source`** | Data source of the row                                       |
 
-##### weekly_subnational_14_day_notification_rate.csv : 
+##### [weekly_subnational_14_day_notification_rate.csv](weekly_subnational_14_day_notification_rate.csv) : 
 
 14-day notification rate of newly reported COVID-19 cases per 100 000 population by week and subnational region. Each row contains the corresponding data for a certain week and subnational region.
 
