@@ -2,7 +2,7 @@
 
 ##### Context:
 
-This dataset was extracted from the  UNHCR Statistical Yearbook.  Due to the format of the original data, each sub-dataset was extracted by hand, so there might be some parsing errors. Each table and variable is accurately described in the [Statistical Annexes](https://www.unhcr.org/51628f589.html).
+This dataset was extracted from the UNHCR Statistical Yearbook. Due to the format of the original data, each sub-dataset was extracted by hand, so bear in mind that there might be some parsing inconsistencies. A brief description of each table can be found below. Tables highlighted in green are considered to be directly related to the challenge at hand.  [Statistical Annexes](https://www.unhcr.org/51628f589.html).
 
 #### Description per table:
 
