@@ -57,8 +57,9 @@ Demographic composition of refugees and people in refugee-like situations, end-2
 Population of concern to UNHCR by type of accommodation, end-2011
 
 ##### Table 17.
-Refugees including people in a refugee-like situation by type of location, end-2011
-
+```diff
++Refugees including people in a refugee-like situation by type of location, end-2011
+```
 ##### Table 18.
 ```diff
 +Major mass inflows, 2011
