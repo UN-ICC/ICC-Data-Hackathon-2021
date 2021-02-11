@@ -69,7 +69,7 @@ Resettlement departures of refugees from first asylum countries, 2011
 
 ##### Table 21.
 ```diff
-+ Resettlement arrivals of refugees, 2011
+Resettlement arrivals of refugees, 2011
 ```
 
 ##### Table 22.
