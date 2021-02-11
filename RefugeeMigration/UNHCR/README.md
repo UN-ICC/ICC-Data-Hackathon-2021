@@ -68,7 +68,7 @@ Major voluntary repatriation/returnee movements, 2011
 Resettlement departures of refugees from first asylum countries, 2011
 
 ##### Table 21.
-</mark>Resettlement arrivals of refugees, 2011</mark>
+<span style="background-color: #FFFF00">Resettlement arrivals of refugees, 2011</span>
 
 ##### Table 22.
 Refugees, asylum-seekers, internally displaced persons (IDPs), returnees (refugees and IDPs), stateless persons, and others of concern to UNHCR by region, 2010-2011
