@@ -2,9 +2,29 @@
 
 ##### Context:
 
-This dataset was extracted from the UNHCR Statistical Yearbook. Due to the format of the original data, each sub-dataset was extracted by hand, so bear in mind that there might be some parsing inconsistencies. A brief description of each table can be found below. Tables highlighted in green are considered to be directly related to the challenge at hand.  [Statistical Annexes](https://www.unhcr.org/51628f589.html).
+This dataset was extracted from the UNHCR Statistical Yearbook. Due to the format of the original data, each sub-dataset was extracted by hand, so bear in mind that there might be some parsing inconsistencies. A brief description of each table can be found below. Main tables are what we consider to be directly related to the challenge at hand. All the additional tables can be found under the [additional](additional) folder. For further description of the variables, please check the [Statistical Annexes](https://www.unhcr.org/51628f589.html).
 
-#### Description per table:
+#### Main tables for the challenge:
+
+##### Table 15.
+Major locations and demographic composition of populations of concern to UNHCR, end-2011
+
+##### Table 17.
+Refugees including people in a refugee-like situation by type of location, end-2011
+
+##### Table 18.
+Major mass inflows, 2011
+
+##### Table 19.
+Major voluntary repatriation/returnee movements, 2011
+
+##### Table 20.
+Resettlement departures of refugees from first asylum countries, 2011
+
+##### Table 22.
+Refugees, asylum-seekers, internally displaced persons (IDPs), returnees (refugees and IDPs), stateless persons, and others of concern to UNHCR by region, 2010-2011
+
+#### Additional tables:
 
 ##### Table 1. 
 Refugees, asylum-seekers, internally displaced persons (IDPs), returnees (refugees and IDPs), stateless persons, and others of concern to UNHCR by country/territory of asylum, end-2011
@@ -49,36 +69,12 @@ Demographic composition of populations of concern to UNHCR, end-2011
 ##### Table 14.
 Demographic composition of refugees and people in refugee-like situations, end-2011
 
-##### Table 15.
-```diff
-+Major locations and demographic composition of populations of concern to UNHCR, end-2011
-```
 ##### Table 16. 
 Population of concern to UNHCR by type of accommodation, end-2011
 
-##### Table 17.
-```diff
-+Refugees including people in a refugee-like situation by type of location, end-2011
-```
-##### Table 18.
-```diff
-+Major mass inflows, 2011
-```
-##### Table 19.
-```diff
-+Major voluntary repatriation/returnee movements, 2011
-```
-##### Table 20.
-```diff
-+Resettlement departures of refugees from first asylum countries, 2011
-```
 ##### Table 21.
 Resettlement arrivals of refugees, 2011
 
-##### Table 22.
-```diff
-+Refugees, asylum-seekers, internally displaced persons (IDPs), returnees (refugees and IDPs), stateless persons, and others of concern to UNHCR by region, 2010-2011
-```
 ##### Table 23.
 Refugees, asylum-seekers, internally displaced persons (IDPs), returnees (refugees and IDPs), stateless persons, and others of concern to UNHCR, 2002-2011
 
