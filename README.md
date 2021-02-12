@@ -2,7 +2,7 @@
 
 The Challenges 
 
-[Challenge 1 - Covid-19](COVID-19)
+[Challenge 1 - Covid-19 - Open Challenge](COVID-19)
 
 Covid-19 has been the biggest challenge in the past year. We are now entering a new phase: vaccination.
 This may change the patterns of the pandemic.
