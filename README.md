@@ -26,7 +26,7 @@ The United Nations envisions to deliver the following decade of actions - SDGs b
 
 - [Climate action](https://open.unep.org/)
 - [Gender equality](https://data.unwomen.org/)
-- Human rights and the rule of law 
+- [Human rights and the rule of law](https://data.humdata.org/dataset)
 - Peace and security
 
 
