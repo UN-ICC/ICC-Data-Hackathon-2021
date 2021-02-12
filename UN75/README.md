@@ -7,4 +7,5 @@ This challenge contains a variety of datasets. Find them listed below:
 - [Financial Statistics Data](Financial%20Statistics%20Data)
 - [Human Resources Data](Human%20Resources%20Data)
 - [Human Development Index](../Multipurpose%20Datasets/Human%20Development%20Index)
+- [World Development Indicators](../Multipurpose%20Datasets/World%20Development%20Indicators)
 
