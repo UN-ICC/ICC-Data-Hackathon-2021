@@ -1,10 +1,12 @@
-# UN75 DATASET
+# UN75 DATASETS
 
 ##### Context:
 
-This dataset was constructed through the UN75 One-minute survey. The UN75 survey (www.un75.online) was open to everyone. It was developed in partnership with the SDG Action Campaign, building on the lessons learned from the MYWorld survey, carried out ahead of adoption of the Sustainable Development Goals in 2015. The UN75 Office additionally sought advice from polling experts, such as Pew Research Centre and Misions Publiques. The survey has been translated into 64 languages and adapted for an offline survey app, SMS, UNICEF’s U-Report and other tools.
 
-##### Survey Structure:
+
+##### One Minute Survey:
+
+This dataset was constructed through the UN75 One-minute survey. The UN75 survey (www.un75.online) was open to everyone. It was developed in partnership with the SDG Action Campaign, building on the lessons learned from the MYWorld survey, carried out ahead of adoption of the Sustainable Development Goals in 2015. The UN75 Office additionally sought advice from polling experts, such as Pew Research Centre and Misions Publiques. The survey has been translated into 64 languages and adapted for an offline survey app, SMS, UNICEF’s U-Report and other tools.
 
 Initially, the survey comprised five questions: two multiple choice questions, with answers appearing in randomized order and the option of adding your own (“If you picture the world in 25 years, what THREE things would you most want to see?” & “Which of these global trends do you think will most affect our future?” ); two sliding scale (“How important –or not –is it for countries to work together to manage the above trends?” & “Overall, do you think that people in 2045 will be better off, worse off, the same as you are today?”); and one optional free text question (“What would you advise the UN Secretary-General to do to address these global trends?”). On 22 April, two COVID-19 related questions were added. The first (“What should the international community prioritize to recover better from the pandemic?”) was a multiple-choice question, with answers appearing in randomized order and the option of adding your own answer. The second (“Has Covid-19 changed your views on cooperation between countries?”) was a sliding scale question.
 
@@ -58,4 +60,4 @@ Initially, the survey comprised five questions: two multiple choice questions, w
 
 ##### Source:
 
-[UN75 UNDP](https://data.undp.org/UN75/)
+[UN75 One Minute Survey](https://data.undp.org/UN75/)
