@@ -20,6 +20,7 @@ Other recommended external datasets:
 - [Oxford](https://github.com/OxCGRT/covid-policy-tracker)
 - [UNDP](https://data.undp.org/content/assessing-covid-impacts-on-the-sdgs/)
 - Social media-related data (Twitter recommended)
+- [Covid19 Vaccination HDX](https://data.humdata.org/dataset/covid-19-vaccinations)
 
 For further information, please check the README.md files you will find in each of the folders
 
