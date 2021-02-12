@@ -9,3 +9,8 @@ This challenge contains a variety of datasets. Find them listed below:
 - [Human Development Index](../Multipurpose%20Datasets/Human%20Development%20Index)
 - [World Development Indicators](../Multipurpose%20Datasets/World%20Development%20Indicators)
 
+External datasets:
+
+- [Climate action](https://open.unep.org/)
+- [Gender equality](https://data.unwomen.org/)
+- [Human rights and the rule of law](https://data.humdata.org/dataset)
