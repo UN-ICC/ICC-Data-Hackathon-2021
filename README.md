@@ -17,6 +17,12 @@ These are all open questions. You are not limited to these questions, this is an
 
 [Challenge 2 - Refugee Crisis - Predict Forced Displacement Challenge](RefugeeMigration)
 
+
+1.	Internal Displacement
+2.	Focus on cross border displacement
+3.  Crisis Indicators Table (to be added)
+
+
 [Challenge 3 - UN75 - Visualization Challenge](UN75)
 
 Celebrating the UN’s 75th anniversary, we propose the following challenge –
