@@ -18,6 +18,7 @@ These are all open questions. You are not limited to these questions, this is an
 [Challenge 2 - Refugee Crisis - Predict Forced Displacement Challenge](RefugeeMigration)
 
 [Challenge 3 - UN75 - Visualization Challenge](UN75)
+
 Celebrating the UN’s 75th anniversary, we propose the following challenge –
 Our vision is a world where the people and the planet get the support they need – in the moments that matter most. The UN ecosystem as a whole focuses on maximizing the value of our data responsibly. 
 
