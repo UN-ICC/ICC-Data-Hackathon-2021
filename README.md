@@ -18,8 +18,8 @@ These are all open questions. You are not limited to these questions, this is an
 [Challenge 2 - Refugee Crisis - Predict Forced Displacement Challenge](RefugeeMigration) ## WAITING FOR DATASETS
 
 
-1.	Internal Displacement
-2.	Focus on cross border displacement
+1.	Regional Internal Displacement
+2.	Specific focus on cross border displacement
 3.  Crisis Indicators Table (to be added)
 
 
