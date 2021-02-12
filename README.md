@@ -24,9 +24,9 @@ Our vision is a world where the people and the planet get the support they need 
 
 The United Nations envisions to deliver the following decade of actions - SDGs by 2030:
 
-- [Climate action](https://open.unep.org/)
-- [Gender equality](https://data.unwomen.org/)
-- [Human rights and the rule of law](https://data.humdata.org/dataset)
+- Climate action
+- Gender equality
+- Human rights and the rule of law
 - Peace and security
 
 
