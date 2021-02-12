@@ -19,8 +19,9 @@ Other recommended external datasets:
 - [ACAPS](https://www.acaps.org/secondary-impacts-covid-19#:~:text=The%20objective%20of%20the%20dataset,of%20the%20COVID%2D19%20pandemic.&text=The%20dataset%20will%20track%20secondary,%2C%20health%2C%20migration%20and%20education)
 - [Oxford](https://github.com/OxCGRT/covid-policy-tracker)
 - [UNDP](https://data.undp.org/content/assessing-covid-impacts-on-the-sdgs/)
-- Social media-related data (Twitter recommended)
 - [Covid19 Vaccination HDX](https://data.humdata.org/dataset/covid-19-vaccinations)
+- Social media-related data (Twitter recommended)
+
 
 For further information, please check the README.md files you will find in each of the folders
 
