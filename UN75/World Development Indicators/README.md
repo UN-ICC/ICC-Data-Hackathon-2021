@@ -2,7 +2,7 @@
 
 World Development Indicators (WDI) is the primary World Bank collection of development indicators, compiled from officially recognized international sources. It presents the most current and accurate global development data available, and includes national, regional and global estimates.
 
-We recommend you to look into the [World Bank Databases](https://databank.worldbank.org/databases) and their [API](http://api.worldbank.org/) (documentation can be found [here](https://datahelpdesk.worldbank.org/knowledgebase/topics/125589-developer-information))
+We recommend you to look into the [World Bank Databases](https://databank.worldbank.org/databases) and to try their [API](http://api.worldbank.org/) (documentation can be found [here](https://datahelpdesk.worldbank.org/knowledgebase/topics/125589-developer-information))
 
 #### Structure:
 
