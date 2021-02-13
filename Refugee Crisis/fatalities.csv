@@ -1,0 +1,1519 @@
+"","year","iso_o","Country","Fatalities_acled"
+"1",1997,"AGO","Angola",5262
+"2",1997,"BDI","Burundi",4142
+"3",1997,"BEN","Benin",0
+"4",1997,"BFA","Burkina Faso",0
+"5",1997,"BWA","Botswana",0
+"6",1997,"CAF","Central African Rep.",131
+"7",1997,"CIV","Côte d'Ivoire",18
+"8",1997,"CMR","Cameroon",6
+"9",1997,"COD","Dem. Rep. of the Congo",4283
+"10",1997,"COG","Congo",41
+"11",1997,"DJI","Djibouti",0
+"12",1997,"DZA","Algeria",3579
+"13",1997,"EGY","Egypt",171
+"14",1997,"ERI","Eritrea",100
+"15",1997,"ETH","Ethiopia",84
+"16",1997,"GAB","Gabon",4
+"17",1997,"GHA","Ghana",5
+"18",1997,"GIN","Guinea",0
+"19",1997,"GMB","Gambia",1
+"20",1997,"GNB","Guinea-Bissau",0
+"21",1997,"GNQ","Equatorial Guinea",0
+"22",1997,"KEN","Kenya",489
+"23",1997,"LBR","Liberia",2
+"24",1997,"LBY","Libya",9
+"25",1997,"LSO","Lesotho",7
+"26",1997,"MAR","Morocco",9
+"27",1997,"MDG","Madagascar",0
+"28",1997,"MLI","Mali",3
+"29",1997,"MOZ","Mozambique",0
+"30",1997,"MRT","Mauritania",3
+"31",1997,"MWI","Malawi",0
+"32",1997,"NAM","Namibia",0
+"33",1997,"NER","Niger",121
+"34",1997,"NGA","Nigeria",472
+"35",1997,"RWA","Rwanda",2942
+"36",1997,"SDN","Sudan",5110
+"37",1997,"SEN","Senegal",463
+"38",1997,"SLE","Sierra Leone",40
+"39",1997,"SOM","Somalia",49
+"40",1997,"SWZ","Swaziland",0
+"41",1997,"TCD","Chad",207
+"42",1997,"TGO","Togo",4
+"43",1997,"TUN","Tunisia",0
+"44",1997,"TZA","United Rep. of Tanzania",26
+"45",1997,"UGA","Uganda",932
+"46",1997,"ZAF","South Africa",99
+"47",1997,"ZMB","Zambia",1
+"48",1997,"ZWE","Zimbabwe",2
+"49",1998,"AGO","Angola",50882
+"50",1998,"BDI","Burundi",1238
+"51",1998,"BEN","Benin",1
+"52",1998,"BFA","Burkina Faso",4
+"53",1998,"BWA","Botswana",0
+"54",1998,"CAF","Central African Rep.",46
+"55",1998,"CIV","Côte d'Ivoire",14
+"56",1998,"CMR","Cameroon",8
+"57",1998,"COD","Dem. Rep. of the Congo",3412
+"58",1998,"COG","Congo",121
+"59",1998,"DJI","Djibouti",3
+"60",1998,"DZA","Algeria",1269
+"61",1998,"EGY","Egypt",27
+"62",1998,"ERI","Eritrea",1298
+"63",1998,"ETH","Ethiopia",958
+"64",1998,"GAB","Gabon",0
+"65",1998,"GHA","Ghana",4
+"66",1998,"GIN","Guinea",86
+"67",1998,"GMB","Gambia",0
+"68",1998,"GNB","Guinea-Bissau",567
+"69",1998,"GNQ","Equatorial Guinea",6
+"70",1998,"KEN","Kenya",614
+"71",1998,"LBR","Liberia",102
+"72",1998,"LBY","Libya",2
+"73",1998,"LSO","Lesotho",96
+"74",1998,"MAR","Morocco",10
+"75",1998,"MDG","Madagascar",0
+"76",1998,"MLI","Mali",11
+"77",1998,"MOZ","Mozambique",0
+"78",1998,"MRT","Mauritania",0
+"79",1998,"MWI","Malawi",0
+"80",1998,"NAM","Namibia",0
+"81",1998,"NER","Niger",169
+"82",1998,"NGA","Nigeria",1282
+"83",1998,"RWA","Rwanda",2948
+"84",1998,"SDN","Sudan",4046
+"85",1998,"SEN","Senegal",220
+"86",1998,"SLE","Sierra Leone",0
+"87",1998,"SOM","Somalia",4
+"88",1998,"SWZ","Swaziland",2
+"89",1998,"TCD","Chad",85
+"90",1998,"TGO","Togo",3
+"91",1998,"TUN","Tunisia",0
+"92",1998,"TZA","United Rep. of Tanzania",20
+"93",1998,"UGA","Uganda",1161
+"94",1998,"ZAF","South Africa",100
+"95",1998,"ZMB","Zambia",1
+"96",1998,"ZWE","Zimbabwe",10
+"97",1999,"AGO","Angola",73811
+"98",1999,"BDI","Burundi",1718
+"99",1999,"BEN","Benin",0
+"100",1999,"BFA","Burkina Faso",3
+"101",1999,"BWA","Botswana",0
+"102",1999,"CAF","Central African Rep.",20
+"103",1999,"CIV","Côte d'Ivoire",5
+"104",1999,"CMR","Cameroon",1
+"105",1999,"COD","Dem. Rep. of the Congo",7576
+"106",1999,"COG","Congo",29
+"107",1999,"DJI","Djibouti",14
+"108",1999,"DZA","Algeria",369
+"109",1999,"EGY","Egypt",8
+"110",1999,"ERI","Eritrea",52057
+"111",1999,"ETH","Ethiopia",18839
+"112",1999,"GAB","Gabon",4
+"113",1999,"GHA","Ghana",0
+"114",1999,"GIN","Guinea",453
+"115",1999,"GMB","Gambia",0
+"116",1999,"GNB","Guinea-Bissau",229
+"117",1999,"GNQ","Equatorial Guinea",0
+"118",1999,"KEN","Kenya",339
+"119",1999,"LBR","Liberia",529
+"120",1999,"LBY","Libya",0
+"121",1999,"LSO","Lesotho",50
+"122",1999,"MAR","Morocco",2
+"123",1999,"MDG","Madagascar",0
+"124",1999,"MLI","Mali",120
+"125",1999,"MOZ","Mozambique",0
+"126",1999,"MRT","Mauritania",0
+"127",1999,"MWI","Malawi",0
+"128",1999,"NAM","Namibia",71
+"129",1999,"NER","Niger",10
+"130",1999,"NGA","Nigeria",1796
+"131",1999,"RWA","Rwanda",81
+"132",1999,"SDN","Sudan",2439
+"133",1999,"SEN","Senegal",83
+"134",1999,"SLE","Sierra Leone",113
+"135",1999,"SOM","Somalia",110
+"136",1999,"SWZ","Swaziland",0
+"137",1999,"TCD","Chad",180
+"138",1999,"TGO","Togo",4
+"139",1999,"TUN","Tunisia",4
+"140",1999,"TZA","United Rep. of Tanzania",13
+"141",1999,"UGA","Uganda",1287
+"142",1999,"ZAF","South Africa",87
+"143",1999,"ZMB","Zambia",4
+"144",1999,"ZWE","Zimbabwe",6
+"145",2000,"AGO","Angola",3971
+"146",2000,"BDI","Burundi",3891
+"147",2000,"BEN","Benin",1
+"148",2000,"BFA","Burkina Faso",1
+"149",2000,"BWA","Botswana",0
+"150",2000,"CAF","Central African Rep.",9
+"151",2000,"CIV","Côte d'Ivoire",260
+"152",2000,"CMR","Cameroon",16
+"153",2000,"COD","Dem. Rep. of the Congo",1692
+"154",2000,"COG","Congo",96
+"155",2000,"DJI","Djibouti",0
+"156",2000,"DZA","Algeria",1389
+"157",2000,"EGY","Egypt",77
+"158",2000,"ERI","Eritrea",193
+"159",2000,"ETH","Ethiopia",1407
+"160",2000,"GAB","Gabon",0
+"161",2000,"GHA","Ghana",34
+"162",2000,"GIN","Guinea",1345
+"163",2000,"GMB","Gambia",18
+"164",2000,"GNB","Guinea-Bissau",14
+"165",2000,"GNQ","Equatorial Guinea",0
+"166",2000,"KEN","Kenya",449
+"167",2000,"LBR","Liberia",43
+"168",2000,"LBY","Libya",52
+"169",2000,"LSO","Lesotho",0
+"170",2000,"MAR","Morocco",0
+"171",2000,"MDG","Madagascar",1
+"172",2000,"MLI","Mali",8
+"173",2000,"MOZ","Mozambique",2
+"174",2000,"MRT","Mauritania",1
+"175",2000,"MWI","Malawi",4
+"176",2000,"NAM","Namibia",160
+"177",2000,"NER","Niger",0
+"178",2000,"NGA","Nigeria",3345
+"179",2000,"RWA","Rwanda",181
+"180",2000,"SDN","Sudan",3116
+"181",2000,"SEN","Senegal",85
+"182",2000,"SLE","Sierra Leone",0
+"183",2000,"SOM","Somalia",33
+"184",2000,"SWZ","Swaziland",1
+"185",2000,"TCD","Chad",560
+"186",2000,"TGO","Togo",1
+"187",2000,"TUN","Tunisia",0
+"188",2000,"TZA","United Rep. of Tanzania",63
+"189",2000,"UGA","Uganda",1249
+"190",2000,"ZAF","South Africa",59
+"191",2000,"ZMB","Zambia",3
+"192",2000,"ZWE","Zimbabwe",44
+"193",2001,"AGO","Angola",9157
+"194",2001,"BDI","Burundi",3917
+"195",2001,"BEN","Benin",4
+"196",2001,"BFA","Burkina Faso",0
+"197",2001,"BWA","Botswana",0
+"198",2001,"CAF","Central African Rep.",52
+"199",2001,"CIV","Côte d'Ivoire",17
+"200",2001,"CMR","Cameroon",4
+"201",2001,"COD","Dem. Rep. of the Congo",2383
+"202",2001,"COG","Congo",0
+"203",2001,"DJI","Djibouti",0
+"204",2001,"DZA","Algeria",945
+"205",2001,"EGY","Egypt",4
+"206",2001,"ERI","Eritrea",5
+"207",2001,"ETH","Ethiopia",895
+"208",2001,"GAB","Gabon",0
+"209",2001,"GHA","Ghana",144
+"210",2001,"GIN","Guinea",701
+"211",2001,"GMB","Gambia",7
+"212",2001,"GNB","Guinea-Bissau",13
+"213",2001,"GNQ","Equatorial Guinea",0
+"214",2001,"KEN","Kenya",639
+"215",2001,"LBR","Liberia",55
+"216",2001,"LBY","Libya",0
+"217",2001,"LSO","Lesotho",0
+"218",2001,"MAR","Morocco",0
+"219",2001,"MDG","Madagascar",2
+"220",2001,"MLI","Mali",15
+"221",2001,"MOZ","Mozambique",0
+"222",2001,"MRT","Mauritania",0
+"223",2001,"MWI","Malawi",8
+"224",2001,"NAM","Namibia",13
+"225",2001,"NER","Niger",4
+"226",2001,"NGA","Nigeria",2194
+"227",2001,"RWA","Rwanda",952
+"228",2001,"SDN","Sudan",4277
+"229",2001,"SEN","Senegal",114
+"230",2001,"SLE","Sierra Leone",5
+"231",2001,"SOM","Somalia",72
+"232",2001,"SWZ","Swaziland",1
+"233",2001,"TCD","Chad",133
+"234",2001,"TGO","Togo",0
+"235",2001,"TUN","Tunisia",0
+"236",2001,"TZA","United Rep. of Tanzania",139
+"237",2001,"UGA","Uganda",129
+"238",2001,"ZAF","South Africa",17
+"239",2001,"ZMB","Zambia",2
+"240",2001,"ZWE","Zimbabwe",37
+"241",2002,"AGO","Angola",275
+"242",2002,"BDI","Burundi",2136
+"243",2002,"BEN","Benin",0
+"244",2002,"BFA","Burkina Faso",106
+"245",2002,"BWA","Botswana",0
+"246",2002,"CAF","Central African Rep.",539
+"247",2002,"CIV","Côte d'Ivoire",300
+"248",2002,"CMR","Cameroon",4
+"249",2002,"COD","Dem. Rep. of the Congo",6097
+"250",2002,"COG","Congo",1
+"251",2002,"DJI","Djibouti",2
+"252",2002,"DZA","Algeria",1007
+"253",2002,"EGY","Egypt",24
+"254",2002,"ERI","Eritrea",1
+"255",2002,"ETH","Ethiopia",4197
+"256",2002,"GAB","Gabon",0
+"257",2002,"GHA","Ghana",38
+"258",2002,"GIN","Guinea",14
+"259",2002,"GMB","Gambia",1
+"260",2002,"GNB","Guinea-Bissau",0
+"261",2002,"GNQ","Equatorial Guinea",0
+"262",2002,"KEN","Kenya",426
+"263",2002,"LBR","Liberia",36
+"264",2002,"LBY","Libya",0
+"265",2002,"LSO","Lesotho",9
+"266",2002,"MAR","Morocco",0
+"267",2002,"MDG","Madagascar",38
+"268",2002,"MLI","Mali",5
+"269",2002,"MOZ","Mozambique",0
+"270",2002,"MRT","Mauritania",1
+"271",2002,"MWI","Malawi",1
+"272",2002,"NAM","Namibia",8
+"273",2002,"NER","Niger",76
+"274",2002,"NGA","Nigeria",1141
+"275",2002,"RWA","Rwanda",1
+"276",2002,"SDN","Sudan",9329
+"277",2002,"SEN","Senegal",43
+"278",2002,"SLE","Sierra Leone",2
+"279",2002,"SOM","Somalia",83
+"280",2002,"SWZ","Swaziland",0
+"281",2002,"TCD","Chad",499
+"282",2002,"TGO","Togo",0
+"283",2002,"TUN","Tunisia",22
+"284",2002,"TZA","United Rep. of Tanzania",180
+"285",2002,"UGA","Uganda",1861
+"286",2002,"ZAF","South Africa",28
+"287",2002,"ZMB","Zambia",0
+"288",2002,"ZWE","Zimbabwe",54
+"289",2003,"AGO","Angola",6
+"290",2003,"BDI","Burundi",1630
+"291",2003,"BEN","Benin",0
+"292",2003,"BFA","Burkina Faso",1
+"293",2003,"BWA","Botswana",0
+"294",2003,"CAF","Central African Rep.",84
+"295",2003,"CIV","Côte d'Ivoire",1201
+"296",2003,"CMR","Cameroon",4
+"297",2003,"COD","Dem. Rep. of the Congo",3405
+"298",2003,"COG","Congo",23
+"299",2003,"DJI","Djibouti",0
+"300",2003,"DZA","Algeria",630
+"301",2003,"EGY","Egypt",0
+"302",2003,"ERI","Eritrea",24
+"303",2003,"ETH","Ethiopia",800
+"304",2003,"GAB","Gabon",0
+"305",2003,"GHA","Ghana",7
+"306",2003,"GIN","Guinea",2
+"307",2003,"GMB","Gambia",0
+"308",2003,"GNB","Guinea-Bissau",3
+"309",2003,"GNQ","Equatorial Guinea",1
+"310",2003,"KEN","Kenya",173
+"311",2003,"LBR","Liberia",324
+"312",2003,"LBY","Libya",0
+"313",2003,"LSO","Lesotho",1
+"314",2003,"MAR","Morocco",43
+"315",2003,"MDG","Madagascar",1
+"316",2003,"MLI","Mali",26
+"317",2003,"MOZ","Mozambique",0
+"318",2003,"MRT","Mauritania",26
+"319",2003,"MWI","Malawi",0
+"320",2003,"NAM","Namibia",4
+"321",2003,"NER","Niger",0
+"322",2003,"NGA","Nigeria",956
+"323",2003,"RWA","Rwanda",3
+"324",2003,"SDN","Sudan",8159
+"325",2003,"SEN","Senegal",9
+"326",2003,"SLE","Sierra Leone",0
+"327",2003,"SOM","Somalia",764
+"328",2003,"SWZ","Swaziland",1
+"329",2003,"TCD","Chad",155
+"330",2003,"TGO","Togo",2
+"331",2003,"TUN","Tunisia",0
+"332",2003,"TZA","United Rep. of Tanzania",3
+"333",2003,"UGA","Uganda",2839
+"334",2003,"ZAF","South Africa",16
+"335",2003,"ZMB","Zambia",14
+"336",2003,"ZWE","Zimbabwe",6
+"337",2004,"AGO","Angola",33
+"338",2004,"BDI","Burundi",536
+"339",2004,"BEN","Benin",2
+"340",2004,"BFA","Burkina Faso",13
+"341",2004,"BWA","Botswana",0
+"342",2004,"CAF","Central African Rep.",80
+"343",2004,"CIV","Côte d'Ivoire",494
+"344",2004,"CMR","Cameroon",10
+"345",2004,"COD","Dem. Rep. of the Congo",400
+"346",2004,"COG","Congo",10
+"347",2004,"DJI","Djibouti",0
+"348",2004,"DZA","Algeria",262
+"349",2004,"EGY","Egypt",28
+"350",2004,"ERI","Eritrea",56
+"351",2004,"ETH","Ethiopia",1001
+"352",2004,"GAB","Gabon",8
+"353",2004,"GHA","Ghana",3
+"354",2004,"GIN","Guinea",5
+"355",2004,"GMB","Gambia",1
+"356",2004,"GNB","Guinea-Bissau",7
+"357",2004,"GNQ","Equatorial Guinea",12
+"358",2004,"KEN","Kenya",184
+"359",2004,"LBR","Liberia",19
+"360",2004,"LBY","Libya",0
+"361",2004,"LSO","Lesotho",0
+"362",2004,"MAR","Morocco",2
+"363",2004,"MDG","Madagascar",1
+"364",2004,"MLI","Mali",0
+"365",2004,"MOZ","Mozambique",3
+"366",2004,"MRT","Mauritania",0
+"367",2004,"MWI","Malawi",2
+"368",2004,"NAM","Namibia",0
+"369",2004,"NER","Niger",12
+"370",2004,"NGA","Nigeria",2398
+"371",2004,"RWA","Rwanda",26
+"372",2004,"SDN","Sudan",11451
+"373",2004,"SEN","Senegal",0
+"374",2004,"SLE","Sierra Leone",3
+"375",2004,"SOM","Somalia",926
+"376",2004,"SWZ","Swaziland",0
+"377",2004,"TCD","Chad",442
+"378",2004,"TGO","Togo",2
+"379",2004,"TUN","Tunisia",0
+"380",2004,"TZA","United Rep. of Tanzania",17
+"381",2004,"UGA","Uganda",1415
+"382",2004,"ZAF","South Africa",35
+"383",2004,"ZMB","Zambia",6
+"384",2004,"ZWE","Zimbabwe",2
+"385",2005,"AGO","Angola",3
+"386",2005,"BDI","Burundi",587
+"387",2005,"BEN","Benin",0
+"388",2005,"BFA","Burkina Faso",0
+"389",2005,"BWA","Botswana",0
+"390",2005,"CAF","Central African Rep.",73
+"391",2005,"CIV","Côte d'Ivoire",226
+"392",2005,"CMR","Cameroon",50
+"393",2005,"COD","Dem. Rep. of the Congo",565
+"394",2005,"COG","Congo",15
+"395",2005,"DJI","Djibouti",0
+"396",2005,"DZA","Algeria",254
+"397",2005,"EGY","Egypt",104
+"398",2005,"ERI","Eritrea",165
+"399",2005,"ETH","Ethiopia",1283
+"400",2005,"GAB","Gabon",0
+"401",2005,"GHA","Ghana",2
+"402",2005,"GIN","Guinea",9
+"403",2005,"GMB","Gambia",57
+"404",2005,"GNB","Guinea-Bissau",5
+"405",2005,"GNQ","Equatorial Guinea",0
+"406",2005,"KEN","Kenya",354
+"407",2005,"LBR","Liberia",16
+"408",2005,"LBY","Libya",1
+"409",2005,"LSO","Lesotho",0
+"410",2005,"MAR","Morocco",3
+"411",2005,"MDG","Madagascar",3
+"412",2005,"MLI","Mali",15
+"413",2005,"MOZ","Mozambique",12
+"414",2005,"MRT","Mauritania",26
+"415",2005,"MWI","Malawi",0
+"416",2005,"NAM","Namibia",0
+"417",2005,"NER","Niger",1
+"418",2005,"NGA","Nigeria",105
+"419",2005,"RWA","Rwanda",4
+"420",2005,"SDN","Sudan",1886
+"421",2005,"SEN","Senegal",2
+"422",2005,"SLE","Sierra Leone",0
+"423",2005,"SOM","Somalia",563
+"424",2005,"SWZ","Swaziland",0
+"425",2005,"TCD","Chad",515
+"426",2005,"TGO","Togo",94
+"427",2005,"TUN","Tunisia",0
+"428",2005,"TZA","United Rep. of Tanzania",17
+"429",2005,"UGA","Uganda",1090
+"430",2005,"ZAF","South Africa",6
+"431",2005,"ZMB","Zambia",0
+"432",2005,"ZWE","Zimbabwe",8
+"433",2006,"AGO","Angola",13
+"434",2006,"BDI","Burundi",174
+"435",2006,"BEN","Benin",0
+"436",2006,"BFA","Burkina Faso",16
+"437",2006,"BWA","Botswana",0
+"438",2006,"CAF","Central African Rep.",291
+"439",2006,"CIV","Côte d'Ivoire",56
+"440",2006,"CMR","Cameroon",31
+"441",2006,"COD","Dem. Rep. of the Congo",412
+"442",2006,"COG","Congo",1
+"443",2006,"DJI","Djibouti",0
+"444",2006,"DZA","Algeria",382
+"445",2006,"EGY","Egypt",24
+"446",2006,"ERI","Eritrea",2
+"447",2006,"ETH","Ethiopia",366
+"448",2006,"GAB","Gabon",1
+"449",2006,"GHA","Ghana",3
+"450",2006,"GIN","Guinea",14
+"451",2006,"GMB","Gambia",0
+"452",2006,"GNB","Guinea-Bissau",61
+"453",2006,"GNQ","Equatorial Guinea",0
+"454",2006,"KEN","Kenya",304
+"455",2006,"LBR","Liberia",0
+"456",2006,"LBY","Libya",18
+"457",2006,"LSO","Lesotho",2
+"458",2006,"MAR","Morocco",2
+"459",2006,"MDG","Madagascar",1
+"460",2006,"MLI","Mali",4
+"461",2006,"MOZ","Mozambique",2
+"462",2006,"MRT","Mauritania",0
+"463",2006,"MWI","Malawi",0
+"464",2006,"NAM","Namibia",0
+"465",2006,"NER","Niger",0
+"466",2006,"NGA","Nigeria",126
+"467",2006,"RWA","Rwanda",16
+"468",2006,"SDN","Sudan",1662
+"469",2006,"SEN","Senegal",206
+"470",2006,"SLE","Sierra Leone",0
+"471",2006,"SOM","Somalia",1166
+"472",2006,"SWZ","Swaziland",0
+"473",2006,"TCD","Chad",1905
+"474",2006,"TGO","Togo",0
+"475",2006,"TUN","Tunisia",2
+"476",2006,"TZA","United Rep. of Tanzania",12
+"477",2006,"UGA","Uganda",723
+"478",2006,"ZAF","South Africa",16
+"479",2006,"ZMB","Zambia",24
+"480",2006,"ZWE","Zimbabwe",1
+"481",2007,"AGO","Angola",16
+"482",2007,"BDI","Burundi",63
+"483",2007,"BEN","Benin",2
+"484",2007,"BFA","Burkina Faso",0
+"485",2007,"BWA","Botswana",0
+"486",2007,"CAF","Central African Rep.",218
+"487",2007,"CIV","Côte d'Ivoire",5
+"488",2007,"CMR","Cameroon",71
+"489",2007,"COD","Dem. Rep. of the Congo",385
+"490",2007,"COG","Congo",15
+"491",2007,"DJI","Djibouti",0
+"492",2007,"DZA","Algeria",689
+"493",2007,"EGY","Egypt",0
+"494",2007,"ERI","Eritrea",5
+"495",2007,"ETH","Ethiopia",1423
+"496",2007,"GAB","Gabon",0
+"497",2007,"GHA","Ghana",11
+"498",2007,"GIN","Guinea",66
+"499",2007,"GMB","Gambia",15
+"500",2007,"GNB","Guinea-Bissau",2
+"501",2007,"GNQ","Equatorial Guinea",0
+"502",2007,"KEN","Kenya",963
+"503",2007,"LBR","Liberia",1
+"504",2007,"LBY","Libya",0
+"505",2007,"LSO","Lesotho",0
+"506",2007,"MAR","Morocco",2
+"507",2007,"MDG","Madagascar",22
+"508",2007,"MLI","Mali",18
+"509",2007,"MOZ","Mozambique",0
+"510",2007,"MRT","Mauritania",9
+"511",2007,"MWI","Malawi",1
+"512",2007,"NAM","Namibia",0
+"513",2007,"NER","Niger",90
+"514",2007,"NGA","Nigeria",308
+"515",2007,"RWA","Rwanda",19
+"516",2007,"SDN","Sudan",2157
+"517",2007,"SEN","Senegal",8
+"518",2007,"SLE","Sierra Leone",2
+"519",2007,"SOM","Somalia",2026
+"520",2007,"SWZ","Swaziland",0
+"521",2007,"TCD","Chad",842
+"522",2007,"TGO","Togo",0
+"523",2007,"TUN","Tunisia",14
+"524",2007,"TZA","United Rep. of Tanzania",8
+"525",2007,"UGA","Uganda",308
+"526",2007,"ZAF","South Africa",15
+"527",2007,"ZMB","Zambia",66
+"528",2007,"ZWE","Zimbabwe",13
+"529",2008,"AGO","Angola",10
+"530",2008,"BDI","Burundi",197
+"531",2008,"BEN","Benin",0
+"532",2008,"BFA","Burkina Faso",14
+"533",2008,"BWA","Botswana",1
+"534",2008,"CAF","Central African Rep.",192
+"535",2008,"CIV","Côte d'Ivoire",28
+"536",2008,"CMR","Cameroon",234
+"537",2008,"COD","Dem. Rep. of the Congo",2266
+"538",2008,"COG","Congo",0
+"539",2008,"DJI","Djibouti",10
+"540",2008,"DZA","Algeria",465
+"541",2008,"EGY","Egypt",27
+"542",2008,"ERI","Eritrea",250
+"543",2008,"ETH","Ethiopia",639
+"544",2008,"GAB","Gabon",0
+"545",2008,"GHA","Ghana",29
+"546",2008,"GIN","Guinea",6
+"547",2008,"GMB","Gambia",0
+"548",2008,"GNB","Guinea-Bissau",5
+"549",2008,"GNQ","Equatorial Guinea",3
+"550",2008,"KEN","Kenya",1156
+"551",2008,"LBR","Liberia",0
+"552",2008,"LBY","Libya",40
+"553",2008,"LSO","Lesotho",0
+"554",2008,"MAR","Morocco",0
+"555",2008,"MDG","Madagascar",2
+"556",2008,"MLI","Mali",157
+"557",2008,"MOZ","Mozambique",2
+"558",2008,"MRT","Mauritania",14
+"559",2008,"MWI","Malawi",3
+"560",2008,"NAM","Namibia",0
+"561",2008,"NER","Niger",94
+"562",2008,"NGA","Nigeria",973
+"563",2008,"RWA","Rwanda",9
+"564",2008,"SDN","Sudan",2134
+"565",2008,"SEN","Senegal",8
+"566",2008,"SLE","Sierra Leone",7
+"567",2008,"SOM","Somalia",2071
+"568",2008,"SWZ","Swaziland",2
+"569",2008,"TCD","Chad",272
+"570",2008,"TGO","Togo",1
+"571",2008,"TUN","Tunisia",4
+"572",2008,"TZA","United Rep. of Tanzania",7
+"573",2008,"UGA","Uganda",174
+"574",2008,"ZAF","South Africa",44
+"575",2008,"ZMB","Zambia",11
+"576",2008,"ZWE","Zimbabwe",126
+"577",2009,"AGO","Angola",5
+"578",2009,"BDI","Burundi",71
+"579",2009,"BEN","Benin",1
+"580",2009,"BFA","Burkina Faso",0
+"581",2009,"BWA","Botswana",1
+"582",2009,"CAF","Central African Rep.",260
+"583",2009,"CIV","Côte d'Ivoire",4
+"584",2009,"CMR","Cameroon",19
+"585",2009,"COD","Dem. Rep. of the Congo",6739
+"586",2009,"COG","Congo",100
+"587",2009,"DJI","Djibouti",4
+"588",2009,"DZA","Algeria",514
+"589",2009,"EGY","Egypt",17
+"590",2009,"ERI","Eritrea",9
+"591",2009,"ETH","Ethiopia",1862
+"592",2009,"GAB","Gabon",0
+"593",2009,"GHA","Ghana",21
+"594",2009,"GIN","Guinea",170
+"595",2009,"GMB","Gambia",18
+"596",2009,"GNB","Guinea-Bissau",6
+"597",2009,"GNQ","Equatorial Guinea",3
+"598",2009,"KEN","Kenya",185
+"599",2009,"LBR","Liberia",0
+"600",2009,"LBY","Libya",10
+"601",2009,"LSO","Lesotho",4
+"602",2009,"MAR","Morocco",0
+"603",2009,"MDG","Madagascar",144
+"604",2009,"MLI","Mali",74
+"605",2009,"MOZ","Mozambique",4
+"606",2009,"MRT","Mauritania",2
+"607",2009,"MWI","Malawi",0
+"608",2009,"NAM","Namibia",0
+"609",2009,"NER","Niger",14
+"610",2009,"NGA","Nigeria",2217
+"611",2009,"RWA","Rwanda",8
+"612",2009,"SDN","Sudan",2873
+"613",2009,"SEN","Senegal",18
+"614",2009,"SLE","Sierra Leone",5
+"615",2009,"SOM","Somalia",1130
+"616",2009,"SWZ","Swaziland",0
+"617",2009,"TCD","Chad",261
+"618",2009,"TGO","Togo",2
+"619",2009,"TUN","Tunisia",0
+"620",2009,"TZA","United Rep. of Tanzania",9
+"621",2009,"UGA","Uganda",158
+"622",2009,"ZAF","South Africa",34
+"623",2009,"ZMB","Zambia",16
+"624",2009,"ZWE","Zimbabwe",31
+"625",2010,"AGO","Angola",15
+"626",2010,"BDI","Burundi",153
+"627",2010,"BEN","Benin",0
+"628",2010,"BFA","Burkina Faso",1
+"629",2010,"BGD","Bangladesh",612
+"630",2010,"BWA","Botswana",0
+"631",2010,"CAF","Central African Rep.",412
+"632",2010,"CIV","Côte d'Ivoire",96
+"633",2010,"CMR","Cameroon",6
+"634",2010,"COD","Dem. Rep. of the Congo",1458
+"635",2010,"COG","Congo",0
+"636",2010,"DJI","Djibouti",3
+"637",2010,"DZA","Algeria",246
+"638",2010,"EGY","Egypt",70
+"639",2010,"ERI","Eritrea",70
+"640",2010,"ETH","Ethiopia",1588
+"641",2010,"GAB","Gabon",0
+"642",2010,"GHA","Ghana",6
+"643",2010,"GIN","Guinea",32
+"644",2010,"GMB","Gambia",0
+"645",2010,"GNB","Guinea-Bissau",0
+"646",2010,"GNQ","Equatorial Guinea",7
+"647",2010,"KEN","Kenya",219
+"648",2010,"KHM","Cambodia",18
+"649",2010,"LAO","Lao People's Dem. Rep.",0
+"650",2010,"LBR","Liberia",12
+"651",2010,"LBY","Libya",0
+"652",2010,"LKA","Sri Lanka",28
+"653",2010,"LSO","Lesotho",1
+"654",2010,"MAR","Morocco",30
+"655",2010,"MDG","Madagascar",3
+"656",2010,"MLI","Mali",47
+"657",2010,"MMR","Myanmar",268
+"658",2010,"MOZ","Mozambique",26
+"659",2010,"MRT","Mauritania",26
+"660",2010,"MWI","Malawi",0
+"661",2010,"NAM","Namibia",0
+"662",2010,"NER","Niger",21
+"663",2010,"NGA","Nigeria",1904
+"664",2010,"NPL","Nepal",41
+"665",2010,"PAK","Pakistan",8126
+"666",2010,"RWA","Rwanda",21
+"667",2010,"SDN","Sudan",1730
+"668",2010,"SEN","Senegal",22
+"669",2010,"SLE","Sierra Leone",0
+"670",2010,"SOM","Somalia",3737
+"671",2010,"SWZ","Swaziland",1
+"672",2010,"TCD","Chad",109
+"673",2010,"TGO","Togo",0
+"674",2010,"THA","Thailand",448
+"675",2010,"TUN","Tunisia",2
+"676",2010,"TZA","United Rep. of Tanzania",21
+"677",2010,"UGA","Uganda",289
+"678",2010,"VNM","Viet Nam",12
+"679",2010,"ZAF","South Africa",24
+"680",2010,"ZMB","Zambia",0
+"681",2010,"ZWE","Zimbabwe",9
+"682",2011,"AGO","Angola",4
+"683",2011,"BDI","Burundi",112
+"684",2011,"BEN","Benin",0
+"685",2011,"BFA","Burkina Faso",10
+"686",2011,"BGD","Bangladesh",573
+"687",2011,"BWA","Botswana",0
+"688",2011,"CAF","Central African Rep.",204
+"689",2011,"CIV","Côte d'Ivoire",825
+"690",2011,"CMR","Cameroon",17
+"691",2011,"COD","Dem. Rep. of the Congo",620
+"692",2011,"COG","Congo",0
+"693",2011,"DJI","Djibouti",3
+"694",2011,"DZA","Algeria",316
+"695",2011,"EGY","Egypt",1255
+"696",2011,"ERI","Eritrea",9
+"697",2011,"ETH","Ethiopia",655
+"698",2011,"GAB","Gabon",0
+"699",2011,"GHA","Ghana",5
+"700",2011,"GIN","Guinea",6
+"701",2011,"GMB","Gambia",0
+"702",2011,"GNB","Guinea-Bissau",1
+"703",2011,"GNQ","Equatorial Guinea",0
+"704",2011,"KEN","Kenya",207
+"705",2011,"KHM","Cambodia",35
+"706",2011,"LAO","Lao People's Dem. Rep.",4
+"707",2011,"LBR","Liberia",14
+"708",2011,"LBY","Libya",5532
+"709",2011,"LKA","Sri Lanka",24
+"710",2011,"LSO","Lesotho",0
+"711",2011,"MAR","Morocco",33
+"712",2011,"MDG","Madagascar",0
+"713",2011,"MLI","Mali",57
+"714",2011,"MMR","Myanmar",1422
+"715",2011,"MOZ","Mozambique",4
+"716",2011,"MRT","Mauritania",18
+"717",2011,"MWI","Malawi",20
+"718",2011,"NAM","Namibia",1
+"719",2011,"NER","Niger",25
+"720",2011,"NGA","Nigeria",2472
+"721",2011,"NPL","Nepal",14
+"722",2011,"PAK","Pakistan",4533
+"723",2011,"RWA","Rwanda",3
+"724",2011,"SDN","Sudan",4044
+"725",2011,"SEN","Senegal",45
+"726",2011,"SLE","Sierra Leone",2
+"727",2011,"SOM","Somalia",1978
+"728",2011,"SSD","South Sudan",2615
+"729",2011,"SWZ","Swaziland",3
+"730",2011,"TCD","Chad",17
+"731",2011,"TGO","Togo",1
+"732",2011,"THA","Thailand",399
+"733",2011,"TUN","Tunisia",221
+"734",2011,"TZA","United Rep. of Tanzania",36
+"735",2011,"UGA","Uganda",29
+"736",2011,"VNM","Viet Nam",66
+"737",2011,"ZAF","South Africa",32
+"738",2011,"ZMB","Zambia",22
+"739",2011,"ZWE","Zimbabwe",11
+"740",2012,"AGO","Angola",6
+"741",2012,"BDI","Burundi",31
+"742",2012,"BEN","Benin",0
+"743",2012,"BFA","Burkina Faso",32
+"744",2012,"BGD","Bangladesh",471
+"745",2012,"BWA","Botswana",0
+"746",2012,"CAF","Central African Rep.",262
+"747",2012,"CIV","Côte d'Ivoire",118
+"748",2012,"CMR","Cameroon",20
+"749",2012,"COD","Dem. Rep. of the Congo",1454
+"750",2012,"COG","Congo",2
+"751",2012,"DJI","Djibouti",1
+"752",2012,"DZA","Algeria",245
+"753",2012,"EGY","Egypt",244
+"754",2012,"ERI","Eritrea",0
+"755",2012,"ETH","Ethiopia",885
+"756",2012,"GAB","Gabon",0
+"757",2012,"GHA","Ghana",20
+"758",2012,"GIN","Guinea",19
+"759",2012,"GMB","Gambia",8
+"760",2012,"GNB","Guinea-Bissau",9
+"761",2012,"GNQ","Equatorial Guinea",1
+"762",2012,"KEN","Kenya",512
+"763",2012,"KHM","Cambodia",14
+"764",2012,"LAO","Lao People's Dem. Rep.",11
+"765",2012,"LBR","Liberia",0
+"766",2012,"LBY","Libya",552
+"767",2012,"LKA","Sri Lanka",39
+"768",2012,"LSO","Lesotho",8
+"769",2012,"MAR","Morocco",1
+"770",2012,"MDG","Madagascar",220
+"771",2012,"MLI","Mali",538
+"772",2012,"MMR","Myanmar",969
+"773",2012,"MOZ","Mozambique",13
+"774",2012,"MRT","Mauritania",3
+"775",2012,"MWI","Malawi",0
+"776",2012,"NAM","Namibia",1
+"777",2012,"NER","Niger",15
+"778",2012,"NGA","Nigeria",2983
+"779",2012,"NPL","Nepal",21
+"780",2012,"PAK","Pakistan",6117
+"781",2012,"RWA","Rwanda",34
+"782",2012,"SDN","Sudan",2349
+"783",2012,"SEN","Senegal",24
+"784",2012,"SLE","Sierra Leone",3
+"785",2012,"SOM","Somalia",3353
+"786",2012,"SSD","South Sudan",4239
+"787",2012,"SWZ","Swaziland",2
+"788",2012,"TCD","Chad",3
+"789",2012,"TGO","Togo",0
+"790",2012,"THA","Thailand",348
+"791",2012,"TUN","Tunisia",14
+"792",2012,"TZA","United Rep. of Tanzania",57
+"793",2012,"UGA","Uganda",20
+"794",2012,"VNM","Viet Nam",3
+"795",2012,"ZAF","South Africa",256
+"796",2012,"ZMB","Zambia",12
+"797",2012,"ZWE","Zimbabwe",14
+"798",2013,"AGO","Angola",6
+"799",2013,"BDI","Burundi",18
+"800",2013,"BEN","Benin",0
+"801",2013,"BFA","Burkina Faso",8
+"802",2013,"BGD","Bangladesh",811
+"803",2013,"BWA","Botswana",0
+"804",2013,"CAF","Central African Rep.",2559
+"805",2013,"CIV","Côte d'Ivoire",79
+"806",2013,"CMR","Cameroon",32
+"807",2013,"COD","Dem. Rep. of the Congo",1973
+"808",2013,"COG","Congo",40
+"809",2013,"DJI","Djibouti",6
+"810",2013,"DZA","Algeria",341
+"811",2013,"EGY","Egypt",2479
+"812",2013,"ERI","Eritrea",118
+"813",2013,"ETH","Ethiopia",582
+"814",2013,"GAB","Gabon",0
+"815",2013,"GHA","Ghana",23
+"816",2013,"GIN","Guinea",131
+"817",2013,"GMB","Gambia",0
+"818",2013,"GNB","Guinea-Bissau",3
+"819",2013,"GNQ","Equatorial Guinea",0
+"820",2013,"KEN","Kenya",766
+"821",2013,"KHM","Cambodia",9
+"822",2013,"LAO","Lao People's Dem. Rep.",0
+"823",2013,"LBR","Liberia",3
+"824",2013,"LBY","Libya",439
+"825",2013,"LKA","Sri Lanka",15
+"826",2013,"LSO","Lesotho",0
+"827",2013,"MAR","Morocco",5
+"828",2013,"MDG","Madagascar",180
+"829",2013,"MLI","Mali",883
+"830",2013,"MMR","Myanmar",465
+"831",2013,"MOZ","Mozambique",144
+"832",2013,"MRT","Mauritania",0
+"833",2013,"MWI","Malawi",2
+"834",2013,"NAM","Namibia",3
+"835",2013,"NER","Niger",33
+"836",2013,"NGA","Nigeria",4686
+"837",2013,"NPL","Nepal",6
+"838",2013,"PAK","Pakistan",4473
+"839",2013,"RWA","Rwanda",8
+"840",2013,"SDN","Sudan",6796
+"841",2013,"SEN","Senegal",15
+"842",2013,"SLE","Sierra Leone",6
+"843",2013,"SOM","Somalia",3156
+"844",2013,"SSD","South Sudan",4393
+"845",2013,"SWZ","Swaziland",0
+"846",2013,"TCD","Chad",5
+"847",2013,"TGO","Togo",8
+"848",2013,"THA","Thailand",426
+"849",2013,"TUN","Tunisia",75
+"850",2013,"TZA","United Rep. of Tanzania",42
+"851",2013,"UGA","Uganda",34
+"852",2013,"VNM","Viet Nam",4
+"853",2013,"ZAF","South Africa",108
+"854",2013,"ZMB","Zambia",13
+"855",2013,"ZWE","Zimbabwe",8
+"856",2014,"AGO","Angola",0
+"857",2014,"BDI","Burundi",73
+"858",2014,"BEN","Benin",0
+"859",2014,"BFA","Burkina Faso",36
+"860",2014,"BGD","Bangladesh",390
+"861",2014,"BWA","Botswana",0
+"862",2014,"CAF","Central African Rep.",3618
+"863",2014,"CIV","Côte d'Ivoire",33
+"864",2014,"CMR","Cameroon",1366
+"865",2014,"COD","Dem. Rep. of the Congo",1230
+"866",2014,"COG","Congo",11
+"867",2014,"DJI","Djibouti",11
+"868",2014,"DZA","Algeria",227
+"869",2014,"EGY","Egypt",1347
+"870",2014,"ERI","Eritrea",10
+"871",2014,"ETH","Ethiopia",335
+"872",2014,"GAB","Gabon",2
+"873",2014,"GHA","Ghana",14
+"874",2014,"GIN","Guinea",13
+"875",2014,"GMB","Gambia",3
+"876",2014,"GNB","Guinea-Bissau",22
+"877",2014,"GNQ","Equatorial Guinea",0
+"878",2014,"KEN","Kenya",610
+"879",2014,"KHM","Cambodia",13
+"880",2014,"LAO","Lao People's Dem. Rep.",0
+"881",2014,"LBR","Liberia",26
+"882",2014,"LBY","Libya",3334
+"883",2014,"LKA","Sri Lanka",7
+"884",2014,"LSO","Lesotho",1
+"885",2014,"MAR","Morocco",4
+"886",2014,"MDG","Madagascar",465
+"887",2014,"MLI","Mali",381
+"888",2014,"MMR","Myanmar",504
+"889",2014,"MOZ","Mozambique",57
+"890",2014,"MRT","Mauritania",1
+"891",2014,"MWI","Malawi",11
+"892",2014,"NAM","Namibia",5
+"893",2014,"NER","Niger",38
+"894",2014,"NGA","Nigeria",11350
+"895",2014,"NPL","Nepal",6
+"896",2014,"PAK","Pakistan",5378
+"897",2014,"RWA","Rwanda",4
+"898",2014,"SDN","Sudan",4158
+"899",2014,"SEN","Senegal",11
+"900",2014,"SLE","Sierra Leone",2
+"901",2014,"SOM","Somalia",4467
+"902",2014,"SSD","South Sudan",6394
+"903",2014,"SWZ","Swaziland",0
+"904",2014,"TCD","Chad",50
+"905",2014,"TGO","Togo",0
+"906",2014,"THA","Thailand",254
+"907",2014,"TUN","Tunisia",104
+"908",2014,"TZA","United Rep. of Tanzania",29
+"909",2014,"UGA","Uganda",195
+"910",2014,"VNM","Viet Nam",29
+"911",2014,"ZAF","South Africa",151
+"912",2014,"ZMB","Zambia",7
+"913",2014,"ZWE","Zimbabwe",7
+"914",2015,"AGO","Angola",23
+"915",2015,"BDI","Burundi",1109
+"916",2015,"BEN","Benin",3
+"917",2015,"BFA","Burkina Faso",23
+"918",2015,"BGD","Bangladesh",502
+"919",2015,"BWA","Botswana",0
+"920",2015,"CAF","Central African Rep.",525
+"921",2015,"CIV","Côte d'Ivoire",24
+"922",2015,"CMR","Cameroon",1439
+"923",2015,"COD","Dem. Rep. of the Congo",1762
+"924",2015,"COG","Congo",4
+"925",2015,"DJI","Djibouti",27
+"926",2015,"DZA","Algeria",154
+"927",2015,"EGY","Egypt",2840
+"928",2015,"ERI","Eritrea",3
+"929",2015,"ETH","Ethiopia",810
+"930",2015,"GAB","Gabon",0
+"931",2015,"GHA","Ghana",31
+"932",2015,"GIN","Guinea",34
+"933",2015,"GMB","Gambia",0
+"934",2015,"GNB","Guinea-Bissau",1
+"935",2015,"GNQ","Equatorial Guinea",0
+"936",2015,"IDN","Indonesia",100
+"937",2015,"KEN","Kenya",503
+"938",2015,"KHM","Cambodia",6
+"939",2015,"LAO","Lao People's Dem. Rep.",5
+"940",2015,"LBR","Liberia",4
+"941",2015,"LBY","Libya",3001
+"942",2015,"LKA","Sri Lanka",9
+"943",2015,"LSO","Lesotho",4
+"944",2015,"MAR","Morocco",4
+"945",2015,"MDG","Madagascar",192
+"946",2015,"MLI","Mali",428
+"947",2015,"MMR","Myanmar",1267
+"948",2015,"MOZ","Mozambique",48
+"949",2015,"MRT","Mauritania",1
+"950",2015,"MWI","Malawi",12
+"951",2015,"NAM","Namibia",4
+"952",2015,"NER","Niger",984
+"953",2015,"NGA","Nigeria",10908
+"954",2015,"NPL","Nepal",51
+"955",2015,"PAK","Pakistan",4503
+"956",2015,"RWA","Rwanda",4
+"957",2015,"SAU","Saudi Arabia",976
+"958",2015,"SDN","Sudan",3466
+"959",2015,"SEN","Senegal",1
+"960",2015,"SLE","Sierra Leone",2
+"961",2015,"SOM","Somalia",4104
+"962",2015,"SSD","South Sudan",3600
+"963",2015,"SWZ","Swaziland",3
+"964",2015,"TCD","Chad",429
+"965",2015,"TGO","Togo",8
+"966",2015,"THA","Thailand",152
+"967",2015,"TUN","Tunisia",161
+"968",2015,"TZA","United Rep. of Tanzania",32
+"969",2015,"UGA","Uganda",27
+"970",2015,"VNM","Viet Nam",3
+"971",2015,"YEM","Yemen",17346
+"972",2015,"ZAF","South Africa",197
+"973",2015,"ZMB","Zambia",8
+"974",2015,"ZWE","Zimbabwe",19
+"975",2016,"AGO","Angola",115
+"976",2016,"BDI","Burundi",452
+"977",2016,"BEN","Benin",22
+"978",2016,"BFA","Burkina Faso",81
+"979",2016,"BGD","Bangladesh",420
+"980",2016,"BHR","Bahrain",3
+"981",2016,"BWA","Botswana",0
+"982",2016,"CAF","Central African Rep.",739
+"983",2016,"CIV","Côte d'Ivoire",89
+"984",2016,"CMR","Cameroon",721
+"985",2016,"COD","Dem. Rep. of the Congo",1740
+"986",2016,"COG","Congo",78
+"987",2016,"DJI","Djibouti",0
+"988",2016,"DZA","Algeria",129
+"989",2016,"EGY","Egypt",1721
+"990",2016,"ERI","Eritrea",37
+"991",2016,"ETH","Ethiopia",2512
+"992",2016,"GAB","Gabon",7
+"993",2016,"GHA","Ghana",42
+"994",2016,"GIN","Guinea",4
+"995",2016,"GMB","Gambia",4
+"996",2016,"GNB","Guinea-Bissau",0
+"997",2016,"GNQ","Equatorial Guinea",0
+"998",2016,"IDN","Indonesia",54
+"999",2016,"IND","India",1651
+"1000",2016,"IRN","Iran (Islamic Rep. of)",247
+"1001",2016,"IRQ","Iraq",56015
+"1002",2016,"ISR","Israel",20
+"1003",2016,"JOR","Jordan",64
+"1004",2016,"KEN","Kenya",226
+"1005",2016,"KHM","Cambodia",3
+"1006",2016,"KWT","Kuwait",0
+"1007",2016,"LAO","Lao People's Dem. Rep.",9
+"1008",2016,"LBN","Lebanon",187
+"1009",2016,"LBR","Liberia",8
+"1010",2016,"LBY","Libya",3260
+"1011",2016,"LKA","Sri Lanka",4
+"1012",2016,"LSO","Lesotho",4
+"1013",2016,"MAR","Morocco",6
+"1014",2016,"MDG","Madagascar",177
+"1015",2016,"MLI","Mali",320
+"1016",2016,"MMR","Myanmar",411
+"1017",2016,"MOZ","Mozambique",105
+"1018",2016,"MRT","Mauritania",0
+"1019",2016,"MWI","Malawi",23
+"1020",2016,"NAM","Namibia",0
+"1021",2016,"NER","Niger",367
+"1022",2016,"NGA","Nigeria",4894
+"1023",2016,"NPL","Nepal",8
+"1024",2016,"OMN","Oman",0
+"1025",2016,"PAK","Pakistan",2201
+"1026",2016,"PHL","Philippines",4201
+"1027",2016,"PSE","State of Palestine",150
+"1028",2016,"QAT","Qatar",0
+"1029",2016,"RWA","Rwanda",8
+"1030",2016,"SAU","Saudi Arabia",1606
+"1031",2016,"SDN","Sudan",3899
+"1032",2016,"SEN","Senegal",18
+"1033",2016,"SLE","Sierra Leone",7
+"1034",2016,"SOM","Somalia",5637
+"1035",2016,"SSD","South Sudan",3548
+"1036",2016,"SWZ","Swaziland",0
+"1037",2016,"TCD","Chad",42
+"1038",2016,"TGO","Togo",5
+"1039",2016,"THA","Thailand",148
+"1040",2016,"TUN","Tunisia",120
+"1041",2016,"TUR","Turkey",5188
+"1042",2016,"TZA","United Rep. of Tanzania",43
+"1043",2016,"UGA","Uganda",277
+"1044",2016,"VNM","Viet Nam",2
+"1045",2016,"YEM","Yemen",15307
+"1046",2016,"ZAF","South Africa",126
+"1047",2016,"ZMB","Zambia",6
+"1048",2016,"ZWE","Zimbabwe",6
+"1049",2017,"AFG","Afghanistan",36349
+"1050",2017,"AGO","Angola",67
+"1051",2017,"ARE","United Arab Emirates",0
+"1052",2017,"BDI","Burundi",280
+"1053",2017,"BEN","Benin",15
+"1054",2017,"BFA","Burkina Faso",117
+"1055",2017,"BGD","Bangladesh",227
+"1056",2017,"BHR","Bahrain",17
+"1057",2017,"BWA","Botswana",0
+"1058",2017,"CAF","Central African Rep.",1829
+"1059",2017,"CIV","Côte d'Ivoire",43
+"1060",2017,"CMR","Cameroon",713
+"1061",2017,"COD","Dem. Rep. of the Congo",3210
+"1062",2017,"COG","Congo",21
+"1063",2017,"DJI","Djibouti",0
+"1064",2017,"DZA","Algeria",145
+"1065",2017,"EGY","Egypt",1544
+"1066",2017,"ERI","Eritrea",1
+"1067",2017,"ETH","Ethiopia",1352
+"1068",2017,"GAB","Gabon",0
+"1069",2017,"GHA","Ghana",89
+"1070",2017,"GIN","Guinea",47
+"1071",2017,"GMB","Gambia",6
+"1072",2017,"GNB","Guinea-Bissau",0
+"1073",2017,"GNQ","Equatorial Guinea",5
+"1074",2017,"IDN","Indonesia",49
+"1075",2017,"IND","India",1418
+"1076",2017,"IRN","Iran (Islamic Rep. of)",146
+"1077",2017,"IRQ","Iraq",31973
+"1078",2017,"ISR","Israel",9
+"1079",2017,"JOR","Jordan",35
+"1080",2017,"KEN","Kenya",745
+"1081",2017,"KHM","Cambodia",1
+"1082",2017,"KWT","Kuwait",0
+"1083",2017,"LAO","Lao People's Dem. Rep.",4
+"1084",2017,"LBN","Lebanon",366
+"1085",2017,"LBR","Liberia",7
+"1086",2017,"LBY","Libya",1663
+"1087",2017,"LKA","Sri Lanka",2
+"1088",2017,"LSO","Lesotho",4
+"1089",2017,"MAR","Morocco",4
+"1090",2017,"MDG","Madagascar",210
+"1091",2017,"MLI","Mali",948
+"1092",2017,"MMR","Myanmar",1253
+"1093",2017,"MOZ","Mozambique",129
+"1094",2017,"MRT","Mauritania",2
+"1095",2017,"MWI","Malawi",19
+"1096",2017,"NAM","Namibia",2
+"1097",2017,"NER","Niger",240
+"1098",2017,"NGA","Nigeria",4938
+"1099",2017,"NPL","Nepal",18
+"1100",2017,"OMN","Oman",0
+"1101",2017,"PAK","Pakistan",1726
+"1102",2017,"PHL","Philippines",4088
+"1103",2017,"PSE","State of Palestine",114
+"1104",2017,"QAT","Qatar",0
+"1105",2017,"RWA","Rwanda",4
+"1106",2017,"SAU","Saudi Arabia",1811
+"1107",2017,"SDN","Sudan",1291
+"1108",2017,"SEN","Senegal",1
+"1109",2017,"SLE","Sierra Leone",2
+"1110",2017,"SOM","Somalia",5789
+"1111",2017,"SSD","South Sudan",4794
+"1112",2017,"SWZ","Swaziland",0
+"1113",2017,"SYR","Syrian Arab Rep.",54190
+"1114",2017,"TCD","Chad",296
+"1115",2017,"TGO","Togo",44
+"1116",2017,"THA","Thailand",94
+"1117",2017,"TUN","Tunisia",27
+"1118",2017,"TUR","Turkey",2922
+"1119",2017,"TZA","United Rep. of Tanzania",264
+"1120",2017,"UGA","Uganda",66
+"1121",2017,"VNM","Viet Nam",3
+"1122",2017,"YEM","Yemen",17244
+"1123",2017,"ZAF","South Africa",99
+"1124",2017,"ZMB","Zambia",2
+"1125",2017,"ZWE","Zimbabwe",9
+"1126",2018,"AFG","Afghanistan",43015
+"1127",2018,"AGO","Angola",41
+"1128",2018,"ALB","Albania",1
+"1129",2018,"ARE","United Arab Emirates",0
+"1130",2018,"ARM","Armenia",6
+"1131",2018,"AZE","Azerbaijan",46
+"1132",2018,"BDI","Burundi",327
+"1133",2018,"BEN","Benin",30
+"1134",2018,"BFA","Burkina Faso",303
+"1135",2018,"BGD","Bangladesh",242
+"1136",2018,"BGR","Bulgaria",0
+"1137",2018,"BHR","Bahrain",0
+"1138",2018,"BIH","Bosnia and Herzegovina",1
+"1139",2018,"BLR","Belarus",0
+"1140",2018,"BWA","Botswana",1
+"1141",2018,"CAF","Central African Rep.",1171
+"1142",2018,"CIV","Côte d'Ivoire",16
+"1143",2018,"CMR","Cameroon",1513
+"1144",2018,"COD","Dem. Rep. of the Congo",3095
+"1145",2018,"COG","Congo",28
+"1146",2018,"CYP","Cyprus",1
+"1147",2018,"DJI","Djibouti",0
+"1148",2018,"DZA","Algeria",66
+"1149",2018,"EGY","Egypt",1111
+"1150",2018,"ERI","Eritrea",1
+"1151",2018,"ETH","Ethiopia",1553
+"1152",2018,"GAB","Gabon",0
+"1153",2018,"GEO","Georgia",3
+"1154",2018,"GHA","Ghana",25
+"1155",2018,"GIN","Guinea",39
+"1156",2018,"GMB","Gambia",3
+"1157",2018,"GNB","Guinea-Bissau",0
+"1158",2018,"GNQ","Equatorial Guinea",4
+"1159",2018,"GRC","Greece",8
+"1160",2018,"HRV","Croatia",0
+"1161",2018,"IDN","Indonesia",167
+"1162",2018,"IND","India",2098
+"1163",2018,"IRN","Iran (Islamic Rep. of)",145
+"1164",2018,"IRQ","Iraq",5588
+"1165",2018,"ISR","Israel",8
+"1166",2018,"JOR","Jordan",6
+"1167",2018,"KAZ","Kazakhstan",3
+"1168",2018,"KEN","Kenya",407
+"1169",2018,"KGZ","Kyrgyzstan",3
+"1170",2018,"KHM","Cambodia",13
+"1171",2018,"KWT","Kuwait",0
+"1172",2018,"LAO","Lao People's Dem. Rep.",0
+"1173",2018,"LBN","Lebanon",17
+"1174",2018,"LBR","Liberia",2
+"1175",2018,"LBY","Libya",1188
+"1176",2018,"LKA","Sri Lanka",26
+"1177",2018,"LSO","Lesotho",0
+"1178",2018,"MAR","Morocco",7
+"1179",2018,"MDA","Rep. of Moldova",0
+"1180",2018,"MDG","Madagascar",142
+"1181",2018,"MKD","The former Yugoslav Republic of Macedonia",1
+"1182",2018,"MLI","Mali",1739
+"1183",2018,"MMR","Myanmar",225
+"1184",2018,"MNE","Montenegro",2
+"1185",2018,"MOZ","Mozambique",223
+"1186",2018,"MRT","Mauritania",3
+"1187",2018,"MWI","Malawi",15
+"1188",2018,"MYS","Malaysia",12
+"1189",2018,"NAM","Namibia",1
+"1190",2018,"NER","Niger",506
+"1191",2018,"NGA","Nigeria",6239
+"1192",2018,"NIC","Nicaragua",1
+"1193",2018,"NPL","Nepal",13
+"1194",2018,"OMN","Oman",0
+"1195",2018,"PAK","Pakistan",1224
+"1196",2018,"PHL","Philippines",1787
+"1197",2018,"PSE","State of Palestine",340
+"1198",2018,"QAT","Qatar",0
+"1199",2018,"ROU","Romania",0
+"1200",2018,"RUS","Russian Federation",119
+"1201",2018,"RWA","Rwanda",38
+"1202",2018,"SAU","Saudi Arabia",3378
+"1203",2018,"SDN","Sudan",1054
+"1204",2018,"SEN","Senegal",29
+"1205",2018,"SLE","Sierra Leone",9
+"1206",2018,"SOM","Somalia",5063
+"1207",2018,"SRB","Serbia and Kosovo (S/RES/1244 (1999))",9
+"1208",2018,"SSD","South Sudan",1700
+"1209",2018,"SWZ","Swaziland",0
+"1210",2018,"SYR","Syrian Arab Rep.",30069
+"1211",2018,"TCD","Chad",259
+"1212",2018,"TGO","Togo",5
+"1213",2018,"THA","Thailand",231
+"1214",2018,"TJK","Tajikistan",64
+"1215",2018,"TKM","Turkmenistan",25
+"1216",2018,"TUN","Tunisia",34
+"1217",2018,"TUR","Turkey",1920
+"1218",2018,"TZA","United Rep. of Tanzania",35
+"1219",2018,"UGA","Uganda",146
+"1220",2018,"UKR","Ukraine",857
+"1221",2018,"UZB","Uzbekistan",2
+"1222",2018,"VNM","Viet Nam",3
+"1223",2018,"YEM","Yemen",32360
+"1224",2018,"ZAF","South Africa",73
+"1225",2018,"ZMB","Zambia",16
+"1226",2018,"ZWE","Zimbabwe",24
+"1227",2019,"ABW","Aruba",0
+"1228",2019,"AFG","Afghanistan",41498
+"1229",2019,"AGO","Angola",23
+"1230",2019,"AIA","Anguilla",0
+"1231",2019,"ALB","Albania",0
+"1232",2019,"ARE","United Arab Emirates",0
+"1233",2019,"ARG","Argentina",17
+"1234",2019,"ARM","Armenia",2
+"1235",2019,"ATG","Antigua and Barbuda",0
+"1236",2019,"AZE","Azerbaijan",13
+"1237",2019,"BDI","Burundi",301
+"1238",2019,"BEN","Benin",35
+"1239",2019,"BFA","Burkina Faso",2198
+"1240",2019,"BGD","Bangladesh",384
+"1241",2019,"BGR","Bulgaria",0
+"1242",2019,"BHR","Bahrain",1
+"1243",2019,"BHS","Bahamas",0
+"1244",2019,"BIH","Bosnia and Herzegovina",1
+"1245",2019,"BLR","Belarus",0
+"1246",2019,"BLZ","Belize",55
+"1247",2019,"BMU","Bermuda",0
+"1248",2019,"BOL","Bolivia (Plurinational State of)",18
+"1249",2019,"BRA","Brazil",4772
+"1250",2019,"BRB","Barbados",0
+"1251",2019,"BWA","Botswana",0
+"1252",2019,"CAF","Central African Rep.",573
+"1253",2019,"CHL","Chile",40
+"1254",2019,"CIV","Côte d'Ivoire",45
+"1255",2019,"CMR","Cameroon",1205
+"1256",2019,"COD","Dem. Rep. of the Congo",3668
+"1257",2019,"COG","Congo",2
+"1258",2019,"COL","Colombia",768
+"1259",2019,"CRI","Costa Rica",10
+"1260",2019,"CUB","Cuba",1
+"1261",2019,"CUW","Curaçao",0
+"1262",2019,"CYM","Cayman Islands",0
+"1263",2019,"CYP","Cyprus",1
+"1264",2019,"DJI","Djibouti",4
+"1265",2019,"DMA","Dominica",1
+"1266",2019,"DOM","Dominican Rep.",11
+"1267",2019,"DZA","Algeria",22
+"1268",2019,"ECU","Ecuador",12
+"1269",2019,"EGY","Egypt",1003
+"1270",2019,"ERI","Eritrea",0
+"1271",2019,"ETH","Ethiopia",665
+"1272",2019,"GAB","Gabon",6
+"1273",2019,"GEO","Georgia",3
+"1274",2019,"GHA","Ghana",48
+"1275",2019,"GIN","Guinea",41
+"1276",2019,"GLP","Guadeloupe",0
+"1277",2019,"GMB","Gambia",2
+"1278",2019,"GNB","Guinea-Bissau",1
+"1279",2019,"GNQ","Equatorial Guinea",1
+"1280",2019,"GRC","Greece",6
+"1281",2019,"GRD","Grenada",0
+"1282",2019,"GTM","Guatemala",414
+"1283",2019,"GUF","French Guiana",0
+"1284",2019,"GUY","Guyana",2
+"1285",2019,"HND","Honduras",811
+"1286",2019,"HRV","Croatia",2
+"1287",2019,"HTI","Haiti",245
+"1288",2019,"IDN","Indonesia",212
+"1289",2019,"IND","India",1506
+"1290",2019,"IRN","Iran (Islamic Rep. of)",444
+"1291",2019,"IRQ","Iraq",3611
+"1292",2019,"ISR","Israel",8
+"1293",2019,"JAM","Jamaica",173
+"1294",2019,"JOR","Jordan",6
+"1295",2019,"KAZ","Kazakhstan",5
+"1296",2019,"KEN","Kenya",269
+"1297",2019,"KGZ","Kyrgyzstan",5
+"1298",2019,"KHM","Cambodia",5
+"1299",2019,"KNA","Saint Kitts and Nevis",0
+"1300",2019,"KWT","Kuwait",0
+"1301",2019,"LAO","Lao People's Dem. Rep.",1
+"1302",2019,"LBN","Lebanon",21
+"1303",2019,"LBR","Liberia",11
+"1304",2019,"LBY","Libya",2075
+"1305",2019,"LCA","Saint Lucia",0
+"1306",2019,"LKA","Sri Lanka",296
+"1307",2019,"LSO","Lesotho",5
+"1308",2019,"MAR","Morocco",5
+"1309",2019,"MDA","Rep. of Moldova",0
+"1310",2019,"MDG","Madagascar",350
+"1311",2019,"MEX","Mexico",9378
+"1312",2019,"MKD","The former Yugoslav Republic of Macedonia",0
+"1313",2019,"MLI","Mali",1885
+"1314",2019,"MMR","Myanmar",1493
+"1315",2019,"MNE","Montenegro",0
+"1316",2019,"MOZ","Mozambique",660
+"1317",2019,"MRT","Mauritania",3
+"1318",2019,"MSR","Montserrat",0
+"1319",2019,"MTQ","Martinique",0
+"1320",2019,"MWI","Malawi",22
+"1321",2019,"MYS","Malaysia",13
+"1322",2019,"NAM","Namibia",4
+"1323",2019,"NER","Niger",719
+"1324",2019,"NGA","Nigeria",5430
+"1325",2019,"NIC","Nicaragua",25
+"1326",2019,"NPL","Nepal",12
+"1327",2019,"OMN","Oman",0
+"1328",2019,"PAK","Pakistan",1157
+"1329",2019,"PAN","Panama",2
+"1330",2019,"PER","Peru",32
+"1331",2019,"PHL","Philippines",1622
+"1332",2019,"PRI","Puerto Rico",140
+"1333",2019,"PRY","Paraguay",13
+"1334",2019,"PSE","State of Palestine",157
+"1335",2019,"QAT","Qatar",0
+"1336",2019,"ROU","Romania",1
+"1337",2019,"RUS","Russian Federation",46
+"1338",2019,"RWA","Rwanda",44
+"1339",2019,"SAU","Saudi Arabia",3149
+"1340",2019,"SDN","Sudan",773
+"1341",2019,"SEN","Senegal",4
+"1342",2019,"SLE","Sierra Leone",8
+"1343",2019,"SLV","El Salvador",807
+"1344",2019,"SOM","Somalia",4022
+"1345",2019,"SRB","Serbia and Kosovo (S/RES/1244 (1999))",1
+"1346",2019,"SSD","South Sudan",1800
+"1347",2019,"SUR","Suriname",7
+"1348",2019,"SWZ","Swaziland",2
+"1349",2019,"SXM","Sint Maarten (Dutch part)",0
+"1350",2019,"SYR","Syrian Arab Rep.",15235
+"1351",2019,"TCA","Turks and Caicos Islands",0
+"1352",2019,"TCD","Chad",567
+"1353",2019,"TGO","Togo",7
+"1354",2019,"THA","Thailand",164
+"1355",2019,"TJK","Tajikistan",66
+"1356",2019,"TKM","Turkmenistan",8
+"1357",2019,"TTO","Trinidad and Tobago",139
+"1358",2019,"TUN","Tunisia",30
+"1359",2019,"TUR","Turkey",927
+"1360",2019,"TZA","United Rep. of Tanzania",35
+"1361",2019,"UGA","Uganda",156
+"1362",2019,"UKR","Ukraine",390
+"1363",2019,"URY","Uruguay",3
+"1364",2019,"UZB","Uzbekistan",3
+"1365",2019,"VCT","Saint Vincent and the Grenadines",0
+"1366",2019,"VEN","Venezuela (Bolivarian Republic of)",1121
+"1367",2019,"VGB","British Virgin Islands",0
+"1368",2019,"VNM","Viet Nam",1
+"1369",2019,"YEM","Yemen",25724
+"1370",2019,"ZAF","South Africa",165
+"1371",2019,"ZMB","Zambia",10
+"1372",2019,"ZWE","Zimbabwe",36
+"1373",2020,"ABW","Aruba",0
+"1374",2020,"AFG","Afghanistan",5458
+"1375",2020,"AGO","Angola",8
+"1376",2020,"AIA","Anguilla",0
+"1377",2020,"ALB","Albania",0
+"1378",2020,"ARE","United Arab Emirates",0
+"1379",2020,"ARG","Argentina",9
+"1380",2020,"ARM","Armenia",2
+"1381",2020,"ATG","Antigua and Barbuda",0
+"1382",2020,"AZE","Azerbaijan",5
+"1383",2020,"BDI","Burundi",67
+"1384",2020,"BEN","Benin",17
+"1385",2020,"BFA","Burkina Faso",1096
+"1386",2020,"BGD","Bangladesh",97
+"1387",2020,"BGR","Bulgaria",0
+"1388",2020,"BHR","Bahrain",0
+"1389",2020,"BHS","Bahamas",1
+"1390",2020,"BIH","Bosnia and Herzegovina",0
+"1391",2020,"BLR","Belarus",0
+"1392",2020,"BLZ","Belize",16
+"1393",2020,"BMU","Bermuda",0
+"1394",2020,"BOL","Bolivia (Plurinational State of)",0
+"1395",2020,"BRA","Brazil",1837
+"1396",2020,"BRB","Barbados",2
+"1397",2020,"BWA","Botswana",2
+"1398",2020,"CAF","Central African Rep.",199
+"1399",2020,"CHL","Chile",8
+"1400",2020,"CIV","Côte d'Ivoire",22
+"1401",2020,"CMR","Cameroon",715
+"1402",2020,"COD","Dem. Rep. of the Congo",1848
+"1403",2020,"COG","Congo",0
+"1404",2020,"COL","Colombia",189
+"1405",2020,"CRI","Costa Rica",8
+"1406",2020,"CUB","Cuba",0
+"1407",2020,"CUW","Curaçao",0
+"1408",2020,"CYM","Cayman Islands",0
+"1409",2020,"CYP","Cyprus",0
+"1410",2020,"DJI","Djibouti",0
+"1411",2020,"DMA","Dominica",0
+"1412",2020,"DOM","Dominican Rep.",6
+"1413",2020,"DZA","Algeria",11
+"1414",2020,"ECU","Ecuador",3
+"1415",2020,"EGY","Egypt",223
+"1416",2020,"ERI","Eritrea",1
+"1417",2020,"ETH","Ethiopia",148
+"1418",2020,"GAB","Gabon",3
+"1419",2020,"GEO","Georgia",0
+"1420",2020,"GHA","Ghana",21
+"1421",2020,"GIN","Guinea",45
+"1422",2020,"GLP","Guadeloupe",0
+"1423",2020,"GMB","Gambia",3
+"1424",2020,"GNB","Guinea-Bissau",0
+"1425",2020,"GNQ","Equatorial Guinea",0
+"1426",2020,"GRC","Greece",4
+"1427",2020,"GRD","Grenada",0
+"1428",2020,"GTM","Guatemala",67
+"1429",2020,"GUF","French Guiana",0
+"1430",2020,"GUY","Guyana",1
+"1431",2020,"HND","Honduras",230
+"1432",2020,"HRV","Croatia",0
+"1433",2020,"HTI","Haiti",67
+"1434",2020,"IDN","Indonesia",40
+"1435",2020,"IND","India",372
+"1436",2020,"IRN","Iran (Islamic Rep. of)",220
+"1437",2020,"IRQ","Iraq",720
+"1438",2020,"ISR","Israel",0
+"1439",2020,"JAM","Jamaica",53
+"1440",2020,"JOR","Jordan",2
+"1441",2020,"KAZ","Kazakhstan",10
+"1442",2020,"KEN","Kenya",118
+"1443",2020,"KGZ","Kyrgyzstan",0
+"1444",2020,"KHM","Cambodia",0
+"1445",2020,"KNA","Saint Kitts and Nevis",0
+"1446",2020,"KWT","Kuwait",0
+"1447",2020,"LAO","Lao People's Dem. Rep.",0
+"1448",2020,"LBN","Lebanon",3
+"1449",2020,"LBR","Liberia",1
+"1450",2020,"LBY","Libya",998
+"1451",2020,"LCA","Saint Lucia",0
+"1452",2020,"LKA","Sri Lanka",15
+"1453",2020,"LSO","Lesotho",1
+"1454",2020,"MAR","Morocco",0
+"1455",2020,"MDA","Rep. of Moldova",0
+"1456",2020,"MDG","Madagascar",126
+"1457",2020,"MEX","Mexico",2803
+"1458",2020,"MKD","The former Yugoslav Republic of Macedonia",0
+"1459",2020,"MLI","Mali",1224
+"1460",2020,"MMR","Myanmar",344
+"1461",2020,"MNE","Montenegro",0
+"1462",2020,"MOZ","Mozambique",345
+"1463",2020,"MRT","Mauritania",0
+"1464",2020,"MSR","Montserrat",0
+"1465",2020,"MTQ","Martinique",0
+"1466",2020,"MWI","Malawi",12
+"1467",2020,"MYS","Malaysia",0
+"1468",2020,"NAM","Namibia",0
+"1469",2020,"NER","Niger",634
+"1470",2020,"NGA","Nigeria",2052
+"1471",2020,"NIC","Nicaragua",16
+"1472",2020,"NPL","Nepal",5
+"1473",2020,"OMN","Oman",0
+"1474",2020,"PAK","Pakistan",274
+"1475",2020,"PAN","Panama",1
+"1476",2020,"PER","Peru",28
+"1477",2020,"PHL","Philippines",504
+"1478",2020,"PRI","Puerto Rico",38
+"1479",2020,"PRY","Paraguay",3
+"1480",2020,"PSE","State of Palestine",15
+"1481",2020,"QAT","Qatar",0
+"1482",2020,"ROU","Romania",3
+"1483",2020,"RUS","Russian Federation",11
+"1484",2020,"RWA","Rwanda",5
+"1485",2020,"SAU","Saudi Arabia",61
+"1486",2020,"SDN","Sudan",179
+"1487",2020,"SEN","Senegal",0
+"1488",2020,"SLE","Sierra Leone",15
+"1489",2020,"SLV","El Salvador",102
+"1490",2020,"SOM","Somalia",1008
+"1491",2020,"SRB","Serbia and Kosovo (S/RES/1244 (1999))",0
+"1492",2020,"SSD","South Sudan",610
+"1493",2020,"SUR","Suriname",0
+"1494",2020,"SWZ","Swaziland",0
+"1495",2020,"SXM","Sint Maarten (Dutch part)",0
+"1496",2020,"SYR","Syrian Arab Rep.",3600
+"1497",2020,"TCA","Turks and Caicos Islands",0
+"1498",2020,"TCD","Chad",410
+"1499",2020,"TGO","Togo",5
+"1500",2020,"THA","Thailand",57
+"1501",2020,"TJK","Tajikistan",0
+"1502",2020,"TKM","Turkmenistan",0
+"1503",2020,"TTO","Trinidad and Tobago",65
+"1504",2020,"TUN","Tunisia",8
+"1505",2020,"TUR","Turkey",82
+"1506",2020,"TZA","United Rep. of Tanzania",5
+"1507",2020,"UGA","Uganda",81
+"1508",2020,"UKR","Ukraine",53
+"1509",2020,"URY","Uruguay",0
+"1510",2020,"UZB","Uzbekistan",0
+"1511",2020,"VCT","Saint Vincent and the Grenadines",2
+"1512",2020,"VEN","Venezuela (Bolivarian Republic of)",125
+"1513",2020,"VGB","British Virgin Islands",0
+"1514",2020,"VNM","Viet Nam",4
+"1515",2020,"YEM","Yemen",6758
+"1516",2020,"ZAF","South Africa",49
+"1517",2020,"ZMB","Zambia",23
+"1518",2020,"ZWE","Zimbabwe",3
