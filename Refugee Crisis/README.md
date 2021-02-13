@@ -41,4 +41,4 @@ We recommend you to look into the [Additional Datasources](../Additional%20Datas
  - [Research Institute Oslo (PRIO)](https://www.prio.org/Data/Armed-Conflict/UCDP-PRIO/)
  - [Freedom in the World Dataset. Freedom House](https://freedomhouse.org)
  
- #### _Big mention to the UNHCR Statistics department for helping us build and model this challenge_
+ #### _Special mention to UNHCR for helping us build and shape this challenge_
