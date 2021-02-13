@@ -15,13 +15,9 @@ Some of the research questions are:
 
 These are all open questions. You are not limited to these questions, this is an open challenge.
 
-[Challenge 2 - Refugee Crisis - Predict Forced Displacement Challenge](Refugee%20Crisis) ## WAITING FOR DATASETS
+[Challenge 2 - Refugee Crisis - Predict Forced Displacement Challenge](Refugee%20Crisis) 
 
-
-1.	Regional Internal Displacement
-2.	Specific focus on cross border displacement
-3.  Crisis Indicators Table (to be added)
-
+### WORKING ON IT
 
 [Challenge 3 - UN75 - Visualization Challenge](UN75)
 
