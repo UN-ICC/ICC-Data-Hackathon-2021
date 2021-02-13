@@ -23,7 +23,7 @@ Additionally, when it comes to predicting forcibly displaced migration flows in 
 
 Nevertheless, if global forced displacement flows are the most challenging to forecast, they are perhaps also those where accurate predictions can help create the most value added and to save lives, by allowing governments and NGOs to conduct a better-informed allocation of humanitarian resources
 
-The purpose of the assignment is to develop a model to forecast future stock figures of forcibly displaced persons by country of origin 5 years from now.  The total number of displaced of any country should be disaggregated between those displaced internally within the country (IDP), those displaced abroad that obtained refugee status (REF), and those that requested asylum and are still waiting for a decision (ASY).
+The purpose of the assignment is to develop a model to forecast future stock figures of forcibly displaced persons by **country of origin 5 years from now**.  The total number of displaced of any country should be disaggregated between those displaced internally within the country (IDP), those displaced abroad that obtained refugee status (REF), and those that requested asylum and are still waiting for a decision (ASY).
  
 
 [Challenge 3 - UN75 - Visualization Challenge](UN75)
