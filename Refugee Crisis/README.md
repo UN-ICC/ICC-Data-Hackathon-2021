@@ -5,31 +5,31 @@
 
 Dataset of fatalities by country provided by the Armed Conflict Location and Event Data Projectç
 
-###### [Source](https://acleddata.com/#/dashboard)
+###### [_Source_](https://acleddata.com/#/dashboard)
 
 #### [forciby_displaced.csv](forciby_displaced.csv)
 
 Dataset including stock figures of forcibly displaced persons, disaggregated by displaced abroad (REF), displaced internally (IDP), and asylum seekers awaiting decision (ASY)
 
-###### [Source](https://www.unhcr.org/refugee-statistics/)
+###### [_Source_](https://www.unhcr.org/refugee-statistics/)
 
 #### [terrain_info.csv](terrain_info.csv)
 
 Country-level data on terrain ruggedness and other characteristics of countries
 
-###### [Source](https://diegopuga.org/data/rugged/)
+###### [_Source_](https://diegopuga.org/data/rugged/)
 
 #### [Dist_cepii.dta](Dist_cepii.dta)
 
 Dataset including bilateral distance and other bilateral country characteristics
 
-###### [Source](http://www.cepii.fr/)
+###### [_Source_](http://www.cepii.fr/)
 
 #### [Geo_cepii.dta](Geo_cepii.dta)
 
 Dataset including geographic country characteristics
 
-###### [Source](http://www.cepii.fr/)
+###### [_Source_](http://www.cepii.fr/)
 
 ### Other Datasets
 
