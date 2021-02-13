@@ -16,7 +16,15 @@ Some of the research questions are:
 These are all open questions. You are not limited to these questions, this is an open challenge.
 
 [Challenge 2 - Refugee Crisis - Predict Forced Displacement Challenge](Refugee%20Crisis) 
-### WORKING ON IT
+
+Appropriate and timely planning figures on displaced populations are central to effective policy-related decision-making with respect to response, budgeting, funding appeals, programming, and resource allocation of humanitarian organizations. However, producing reliable estimates of forced displacement at the country level is very challenging, mainly due to limited access to detailed information at this level and the uncertainty that is related to displacement flows. 
+
+Additionally, when it comes to predicting forcibly displaced migration flows in the long run, statistical modeling has, for the most part, proven inadequate as quantitative approaches need to take into account rare, highly uncertain, and unquantifiable factors, such as the occurrence of a political crisis or of a conflict that could trigger mass movements of people.  
+
+Nevertheless, if global forced displacement flows are the most challenging to forecast, they are perhaps also those where accurate predictions can help create the most value added and to save lives, by allowing governments and NGOs to conduct a better-informed allocation of humanitarian resources
+
+The purpose of the assignment is to develop a model to forecast future stock figures of forcibly displaced persons by **country of origin 5 years from now**.  The total number of displaced of any country should be disaggregated between those displaced internally within the country (IDP), those displaced abroad that obtained refugee status (REF), and those that requested asylum and are still waiting for a decision (ASY).
+ 
 
 [Challenge 3 - UN75 - Visualization Challenge](UN75)
 
