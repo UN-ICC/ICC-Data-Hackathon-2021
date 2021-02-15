@@ -10,14 +10,14 @@ The Human Development Index (HDI) is a summary measure of average achievement in
 
 This dataset contains the Human Development Index value for each country ranging from 1990 to 2019
 
-#### indicator_values.csv](indicator_values.csv)
+#### [indicator_values.csv](indicator_values.csv)
 
 | *Variable*      | *Description*                    |
 | --------------- | -------------------------------- |
 | **`id`**        | Country ISO3 code                |
 | **`1990-2019`** | HDI value for that specific year |
 
-#### countries.csv.csv](countries.csv.csv)
+#### [countries.csv.csv](countries.csv.csv)
 
 | *Variable*      | *Description*                    |
 | --------------- | -------------------------------- |
