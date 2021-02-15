@@ -25,7 +25,6 @@ Dataset containing the expenses of the UN agencies, linked by SDG goal
 | ----------------------------------------------------- | ------------------------------------------------------------ |
 | **`calendar_year`**                                         | Year|
 | **`entity code`**                                  | Code of the UN Agency                               |
-| **`type of financial information`**                                           | Currency of the quantity                                 |
 | **`amount`**                                             | Quantity of the expense                                  |
 | **`SDG goal`**                                             | SDG goal number                                      |
 | **`SDG target`**                                             | SDG target number                                      |
