@@ -13,10 +13,21 @@ Dataset containing fatalities per year and country
 | **`Country`**                                           | Name of the country                                      |
 | **`Fatalities_acled`**                                             | Fatalities                                      |
 
-[Source ACLED](https://acleddata.com/#/dashboard)|
+[Source ACLED](https://acleddata.com/#/dashboard)
 
 #### [forciby_displaced.csv](forciby_displaced.csv)
 Dataset including stock figures of forcibly displaced persons, disaggregated by displaced abroad (REF), displaced internally (IDP), and asylum seekers awaiting decision (ASY). 
+
+| *Variable*                                            | *Description*                                                | 
+| ----------------------------------------------------- | ------------------------------------------------------------ |
+| **`Year`**                                         | Year of the event |
+| **`CountryOriginCode`**                                  | ISO3 code of the country of origin                                  |
+| **`CountryAsylumCode`**                                           | ISO3 code of the country of asylum                                   |
+| **`CountryOriginName`**                                             | Name of the country of origin                                     |
+| **`CountryAsylumName`**                                             | Name of the country of asylum                                     |
+| **`REF`**                                             | Displaced abroad that obtained refugee status                                  |
+| **`IDP`**                                             | Internally displaced within the country                                  |
+| **`ASY`**                                             | Requested asylum and are still waiting for a decision                                  |
 
 [Source UNHCR](https://www.unhcr.org/refugee-statistics/)
 
