@@ -5,6 +5,8 @@ There are 3 files:
 
 #### [GDACS.csv](GDACS.csv)
 
+GDACS is a cooperation framework between the United Nations, the European Commission and disaster managers worldwide to improve alerts, information exchange and coordination in the first phase after major sudden-onset disasters. This dataset contains information regarding natural disasters (earthquakes, etc) and where they took place.
+
 | *Variable*                                            | *Description*                                                |
 | ----------------------------------------------------- | ------------------------------------------------------------ |
 | **`GDACS_EventID`**                                         | GDACS Event ID |
