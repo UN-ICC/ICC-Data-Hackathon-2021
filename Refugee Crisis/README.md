@@ -34,6 +34,61 @@ Dataset including stock figures of forcibly displaced persons, disaggregated by 
 #### [terrain_info.csv](terrain_info.csv)
 Country-level data on terrain ruggedness and other characteristics of countries.
 
+| *Variable*                                            | *Description*                                                | 
+| ----------------------------------------------------- | ------------------------------------------------------------ |
+| **`isocode`**                                         | Country 3-letter ISO code. Alpha-3 code definitions from the ISO 3166 Maintenance Agency as of 2000. |
+| **`isonum`**                                  | Country numeric ISO code. Numeric-3 code definitions from the ISO 3166 Maintenance Agency as of 2000.              |
+| **`country`**                                           | Country name. English full name definitions from the ISO 3166 Maintenance Agency as of 2000.  |
+| **`rugged`**                                           |  Ruggedness (Terrain Ruggedness Index, 100 m)                                   |
+| **`rugged_popw`**                                           | Alternative ruggedness (pop. weighted TRI, 100 m).|
+| **`rugged_slope`**                                           | Alternative ruggedness (average slope, %)                                   |
+| **`rugged_lsd`**                                           | Alternative ruggedness (local std. deviation in elevation, 100 m)                                   |
+| **`rugged_pc`**                                           | Alternative ruggedness (% moderately to highly rugged)                                   |
+| **`land_area`**                                           | Land area (1000 Ha)                                  |
+| **`lat`**                                           | Latitude                                   |
+| **`lon`**                                           | Longitude                                   |
+| **`soil`**                                           | % Fertile soil                                   |
+| **`desert`**                                           | % Desert                                   |
+| **`tropical`**                                           | % Tropical climate|
+| **`dist_coast`**                                           | Average distance to nearest ice-free coast (1000 km)                                 |
+| **`near_coast`**                                           |% Within 100 km of ice-free coast                                |
+| **`gemstones`**                                           | Gem diamond extraction 1958-2000 (1000 carats)                                |
+| **`rgdppc_2000`**                                           |  Real GDP per person 2000 -- World Bank                                 |
+| **`rgdppc_1950_m`**                                           | Real GDP per person 1950 -- Maddison                                 |
+| **`rgdppc_1975_m`**                                           | Real GDP per person 1975 -- Maddison                                 |
+| **`rgdppc_2000_m`**                                           | Real GDP per person 2000 -- Maddison                               |
+| **`rgdppc_1950_2000_m`**                                           |  Real GDP per person 1950-2000 Average -- Maddison.                                 |
+| **`q_rule_law`**                                           | Rule of law 1996-2000                                 |
+| **`cont_africa`**                                           | Continent indicator: Africa                                 |
+| **`cont_asia`**                                           | Continent indicator: Asia                               |
+| **`cont_europe`**                                           | Continent indicator: Europe                                 |
+| **`cont_oceania`**                                           | Continent indicator: Oceania                                |
+| **`cont_north_america`**                                           | Continent indicator: North America                                 |
+| **`cont_south_america`**                                           | Continent indicator: South America                                 |
+| **`legor_gbr`**                                           |Legal origin indicator: Common law.                                |
+| **`legor_fra`**                                           |Legal origin indicator: French civil law.                              |
+| **`legor_soc`**                                           | Legal origin indicator: Socialist law.                                |
+| **`legor_deu`**                                           |Legal origin indicator: German civil law.                               |
+| **`legor_sca`**                                           | Legal origin indicator: Scandinavian law.                              |
+
+| **`colony_esp`**                                           | Colonial origin indicator: Spanish.                                |
+| **`colony_gbr`**                                           |Colonial origin indicator: British.                                |
+| **`colony_fra`**                                           |Colonial origin indicator: French.                              |
+| **`colony_prt`**                                           | Colonial origin indicator: Portuguese.                             |
+| **`colony_oeu`**                                           |Colonial origin indicator: Other European.                                |
+| **`africa_region_n`**                                           | African region indicator: North                             |
+| **`africa_region_s`**                                           | African region indicator: South.                               |
+| **`africa_region_w`**                                           |African region indicator: West.                               |
+| **`africa_region_e`**                                           | African region indicator: East.                              |
+| **`africa_region_c`**                                           | African region indicator: Central.                            |
+| **`slave_exports`**                                           | Slave exports 1400-1900.                            |
+| **`dist_slavemkt_atlantic`**                                           |  Distance to slave markets, Atlantic trade (1000 km).                             |
+| **`dist_slavemkt_indian`**                                           | Distance to slave markets, Indian trade (1000 km).                         |
+| **`dist_slavemkt_saharan`**                                           |Distance to slave markets, Saharan trade (1000 km).                          |
+| **`dist_slavemkt_redsea`**                                           | Distance to slave markets, Red Sea trade (1000 km) .                           |
+| **`pop_1400`**                                           | Population 1400.                           |
+| **`european_descent`**                                           | % European descent.                          |
+
 [Source Diego Puga](https://diegopuga.org/data/rugged/)  
 
 #### [dist_cepii.dta](dist_cepii.dta)
