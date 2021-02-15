@@ -5,12 +5,64 @@ The data is comprehensively available in the official [CEB Personnel Statistics]
 
 #### Dataset
 
-| Dataset                                        | Info                                                         |
-| ---------------------------------------------- | ------------------------------------------------------------ |
-| [composition_2019.csv](composition_2019.csv)   | Detailed description of the professionals working for each organization |
-| [duty_station_2019.csv](duty_station_2019.csv) | Information of the professionales working for each organization in each country |
-| [nationality_2019.csv](nationality_2019.csv)   | Information on the nationalities of each                     |
-| [organization_2019.csv](organization_2019.csv) | Yearly staff count for each organization                     |
+#### [composition_2019.csv](composition_2019.csv)
+Detailed description of the professionals working for each organization
+
+YEAR,ORG,category,GRADE,SEX
+| *Variable*                                            | *Description*                                                | 
+| ----------------------------------------------------- | ------------------------------------------------------------ |
+| **`YEAR`**                                         | Year|
+| **`ORG`**                                  | UN Organization                                       |
+| **`category`**                                           | Category of the professional                                    |
+| **`GRADE`**                                             | Grade of the professional                                      |
+| **`SEX`**                                             | Sex of the professional                                      |
+
+#### [duty_station_2019.csv](duty_station_2019.csv)
+Information of the professionales working for each organization in each country 
+
+YEAR,ORG,category,GRADE,SEX
+| *Variable*                                            | *Description*                                                | 
+| ----------------------------------------------------- | ------------------------------------------------------------ |
+| **`REGION`**                                         | Region i.e Africa |
+| **`SUBREGION`**                                  | Subregion  i.e Northern Africa                       |
+| **`ISO`**                                           | ISO3 code of the country                                 |
+| **`COUNTRY`**                                             |Name of the country                                   |
+| **`DS`**                                             | Duty station name                                    |
+| **`ORGCD`**                                             | UN Organization                                   |
+| **`Count`**                                             | Count of professionals in that duty station                                      |
+
+#### [nationality_2019.csv](nationality_2019.csv)
+
+YEAR,ORG,category,GRADE,SEX
+| *Variable*                                            | *Description*                                                | 
+| ----------------------------------------------------- | ------------------------------------------------------------ |
+| **`COUNTRY`**                                         | Name of the country|
+| **`NATIO_ISO`**                                  | ISO3 code of the country                        |
+| **`SUBREGION`**                                           | Subregion  i.e Northern Africa                               |
+| **`REGION`**                                             | Region i.e Africa                                 |
+
+#### [organization_2019.csv](organization_2019.csv)
+Yearly staff count for each UN organization and UN Organization Entity
+
+YEAR,ORG,category,GRADE,SEX
+| *Variable*                                            | *Description*                                                | 
+| ----------------------------------------------------- | ------------------------------------------------------------ |
+| **`YEAR`**                                         | Year|
+| **`ORG`**                                  |  UN Organization                         |
+| **`ENTITY`**                                           |UN Organization Entity                             |
+| **`STAFF`**                                             | Region i.e Africa                                 |
+
+#### [others_2019.csv](others_2019.csv)
+Additional information on staff contracts      
+
+YEAR,ORG,category,GRADE,SEX
+| *Variable*                                            | *Description*                                                | 
+| ----------------------------------------------------- | ------------------------------------------------------------ |
+| **`YEAR`**                                         | Year|
+| **`ORG`**                                  |  UN Organization                         |
+| **`ENTITY`**                                           |UN Organization Entity                             |
+| **`STAFF`**                                             | Region i.e Africa                                 |
+
 | [others_2019.csv](others_2019.csv)             | Additional information on staff contracts                    |
 
 
