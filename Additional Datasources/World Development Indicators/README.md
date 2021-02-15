@@ -4,6 +4,8 @@ World Development Indicators (WDI) is the primary World Bank collection of devel
 
 We recommend you to look into the [World Bank Databases](https://databank.worldbank.org/databases) and to try their [API](http://api.worldbank.org/) (documentation can be found [here](https://datahelpdesk.worldbank.org/knowledgebase/topics/125589-developer-information))
 
+You can also access a specific indicator through the url format: "https://data.worldbank.org/indicator/{indicator_code}" , i.e https://data.worldbank.org/indicator/SP.POP.TOTL to access the total population.
+
 #### Structure:
 
 The structure of this dataset is the following:
