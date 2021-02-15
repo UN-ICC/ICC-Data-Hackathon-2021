@@ -17,7 +17,7 @@ This dataset contains the Human Development Index value for each country ranging
 | **`id`**        | Country ISO3 code                |
 | **`1990-2019`** | HDI value for that specific year |
 
-#### [countries.csv.csv](countries.csv.csv)
+#### [countries.csv](countries.csv.csv)
 
 | *Variable*      | *Description*                    |
 | --------------- | -------------------------------- |
