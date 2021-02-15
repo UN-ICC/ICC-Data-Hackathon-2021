@@ -24,7 +24,8 @@ GDACS is a cooperation framework between the United Nations, the European Commis
 | **`GDACS_Description`**                                 | Event description|
 | **`GDACS_Cap`**                                 | GDACS URL|
 
-[Source GDACS](gdacs.org)
+#### Source
+[GDACS](gdacs.org)
 
 #### [ACLED.zip](ACLED.zip)
 
@@ -60,4 +61,4 @@ ACLED collects real-time data on the locations, dates, actors, fatalities, and t
 | **`ACLED_Fatalities`**                                 |Number or estimate of fatalities due to event. These are frequently different across reports.|
 
 #### Source
-[Source ACLED](https://acleddata.com/#/dashboard)
+[ACLED](https://acleddata.com/#/dashboard)
