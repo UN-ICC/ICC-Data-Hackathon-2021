@@ -31,7 +31,7 @@ The purpose of the assignment is to develop a model to forecast future stock fig
 Celebrating the UN’s 75th anniversary, we propose the following challenge –
 Our vision is a world where the people and the planet get the support they need – in the moments that matter most. The UN ecosystem as a whole focuses on maximizing the value of our data responsibly. 
 
-The United Nations envisions to deliver the following decade of actions - SDGs by 2030:
+The United Nations envisions to deliver the following decade of actions - Sustainable Development Goals (SDGs) by 2030:
 
 - Climate action
 - Gender equality
