@@ -19,7 +19,7 @@ We recommend you to look into the [Additional Datasources](../Additional%20Datas
 
 #### Recommended external datasources:
 
- - Armed Conflict Dataset. Uppsala Conflict Data Program (UCDP) Uppsala University / Peace
+ - [Armed Conflict Dataset. Uppsala Conflict Data Program (UCDP) Uppsala University / Peace](https://www.prio.org/Data/Armed-Conflict/UCDP-PRIO/)
  - [Research Institute Oslo (PRIO)](https://www.prio.org/Data/Armed-Conflict/UCDP-PRIO/)
  - [Freedom in the World Dataset. Freedom House](https://freedomhouse.org)
  
