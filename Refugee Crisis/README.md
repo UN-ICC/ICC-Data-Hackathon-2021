@@ -70,7 +70,6 @@ Country-level data on terrain ruggedness and other characteristics of countries.
 | **`legor_soc`**                                           | Legal origin indicator: Socialist law.                                |
 | **`legor_deu`**                                           |Legal origin indicator: German civil law.                               |
 | **`legor_sca`**                                           | Legal origin indicator: Scandinavian law.                              |
-
 | **`colony_esp`**                                           | Colonial origin indicator: Spanish.                                |
 | **`colony_gbr`**                                           |Colonial origin indicator: British.                                |
 | **`colony_fra`**                                           |Colonial origin indicator: French.                              |
