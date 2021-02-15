@@ -5,7 +5,7 @@ We have prepared several datasets for this challenge.
 
 #### [fatalities.csv](fatalities.csv)
 
-| *Variable*                                            | *Description*                                                |
+| *Variable*                                            | *Description*                                                | [Source](https://acleddata.com/#/dashboard)
 | ----------------------------------------------------- | ------------------------------------------------------------ |
 | **`year`**                                         | Year of the event |
 | **`iso_o`**                                  | ISO3 code of the country                                       |
@@ -13,7 +13,6 @@ We have prepared several datasets for this challenge.
 | **`Fatalities_acled`**                                             | Fatalities                                      |
 
 
-| [fatalities.csv](fatalities.csv)             | Dataset of fatalities by country provided by the Armed Conflict Location and Event Data Project | [ACLED](https://acleddata.com/#/dashboard)   |
 | [forciby_displaced.csv](forciby_displaced.csv) | Dataset including stock figures of forcibly displaced persons, disaggregated by displaced abroad (REF), displaced internally (IDP), and asylum seekers awaiting decision (ASY) | [UNHCR](https://www.unhcr.org/refugee-statistics/) |
 | [terrain_info.csv](terrain_info.csv)           | Country-level data on terrain ruggedness and other characteristics of countries | [Diego Puga](https://diegopuga.org/data/rugged/)   |
 | [dist_cepii.dta](dist_cepii.dta)               | Dataset including bilateral distance and other bilateral country characteristics | [CEPII](http://www.cepii.fr/)                      |
