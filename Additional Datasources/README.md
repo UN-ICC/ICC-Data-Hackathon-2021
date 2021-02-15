@@ -10,4 +10,3 @@ Here you find four additional data sources that can be used for several challeng
     -  Dataset containing detailed information of each World Development Indicator.
  - [Total Population](https://data.worldbank.org/indicator/SP.POP.TOTL)
     - Link to the Total population dataset
- 
