@@ -16,8 +16,8 @@ This challenge contains a variety of datasets. Find them listed below:
 Other recommended dataset sources:
 
 - Climate action
-  -[UNEP](https://open.unep.org/)
+  - [UNEP](https://open.unep.org/)
 - Gender equality
-  -[UNWOMEN](https://data.unwomen.org/)
+  - [UNWOMEN](https://data.unwomen.org/)
 - Human rights and the rule of law
-  -[HUMDATA](https://data.humdata.org/dataset)
+  - [HUMDATA](https://data.humdata.org/dataset)
