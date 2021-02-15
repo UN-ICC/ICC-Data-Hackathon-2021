@@ -19,13 +19,13 @@ Country-level data on terrain ruggedness and other characteristics of countries
 
 ###### [_Source_](https://diegopuga.org/data/rugged/)
 
-#### [Dist_cepii.dta](Dist_cepii.dta)
+#### [Dist_cepii.dta](dist_cepii.dta)
 
 Dataset including bilateral distance and other bilateral country characteristics
 
 ###### [_Source_](http://www.cepii.fr/)
 
-#### [Geo_cepii.dta](Geo_cepii.dta)
+#### [Geo_cepii.dta](geo_cepii.dta)
 
 Dataset including geographic country characteristics
 
