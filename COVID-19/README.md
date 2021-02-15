@@ -7,7 +7,7 @@ There are 3 main sources associated to this competition:
 - [European Centre for Disease Prevention and Control](European%20Centre%20for%20Disease%20Prevention%20and%20Control)
   - 8 datasets
   - From country response measures to hospital info
-- [John Hopkins University](John%20Hopkins%20University)
+- [Johns Hopkins University](Johns%20Hopkins%20University)
   - Global daily reports (Global and US)
 - [The Covid Tracking Project](The%20Covid%20Tracking%20Project)
   - Fine-grained US dataset
