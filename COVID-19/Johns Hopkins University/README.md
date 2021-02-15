@@ -30,26 +30,8 @@ All cases, deaths, and recoveries reported are based on the date of initial repo
 | **`Incident_Rate`**                                             | Case-Fatality Ratio (%) = Number recorded deaths / Number cases.                                   |
 | **`Case_Fatality_Ratio (%)`**                                             |Case-Fatality Ratio (%) = Number recorded deaths / Number cases.                                  |
 
-#### [Global daily reports for Covid-19](global%20daily%20reports)
+#### [US daily reports for Covid-19](us%20daily%20reports)
 
-Province_State - The name of the State within the USA.
-Country_Region - The name of the Country (US).
-Last_Update - The most recent date the file was pushed.
-Lat - Latitude.
-Long_ - Longitude.
-Confirmed - Aggregated case count for the state.
-Deaths - Aggregated death toll for the state.
-Recovered - Aggregated Recovered case count for the state.
-Active - Aggregated confirmed cases that have not been resolved (Active cases = total cases - total recovered - total deaths).
-FIPS - Federal Information Processing Standards code that uniquely identifies counties within the USA.
-Incident_Rate - cases per 100,000 persons.
-Total_Test_Results - Total number of people who have been tested.
-People_Hospitalized - Total number of people hospitalized. (Nullified on Aug 31, see Issue #3083)
-Case_Fatality_Ratio - Number recorded deaths * 100/ Number confirmed cases.
-UID - Unique Identifier for each row entry.
-ISO3 - Officialy assigned country code identifiers.
-Testing_Rate - Total test results per 100,000 persons. The "total test results" are equal to "Total test results (Positive + Negative)" from COVID Tracking Project.
-Hospitalization_Rate - US Hospitalization Rate (%): = Total number hospitalized / Number cases. The "Total number hospitalized" is the "Hospitalized – Cumulative" count from COVID Tracking Project. The "hospitalization rate" and "Total number hospitalized" is only presented for those states which provide cumulative hospital data. (Nullified on Aug 31, see Issue #3083)
 
 | *Variable*                                            | *Description*                                                | 
 | ----------------------------------------------------- | ------------------------------------------------------------ |
