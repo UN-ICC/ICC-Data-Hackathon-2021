@@ -5,7 +5,7 @@ We have prepared several datasets for this challenge.
 
 #### [fatalities.csv](fatalities.csv)
 
-| *Variable*                                            | *Description*                                                | [Source](https://acleddata.com/#/dashboard)
+| *Variable*                                            | *Description*                                                | [Source](https://acleddata.com/#/dashboard)|
 | ----------------------------------------------------- | ------------------------------------------------------------ |
 | **`year`**                                         | Year of the event |
 | **`iso_o`**                                  | ISO3 code of the country                                       |
