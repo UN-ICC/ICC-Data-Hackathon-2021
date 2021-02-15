@@ -58,12 +58,12 @@ Additional information on staff contracts
 YEAR,ORG,category,GRADE,SEX
 | *Variable*                                            | *Description*                                                | 
 | ----------------------------------------------------- | ------------------------------------------------------------ |
-| **`YEAR`**                                         | Year|
-| **`ORG`**                                  |  UN Organization                         |
-| **`ENTITY`**                                           |UN Organization Entity                             |
-| **`STAFF`**                                             | Region i.e Africa                                 |
+| **`SEX`**                                         |  Sex of the professional  |
+| **`Tenure (in years)`**                                  | Employee tenure in years                         |
+| **`LengthServicecat`**                                           |Service length                             |
+| **`agegroup`**                                             | Age group of the person                                |
+| **`Age (in years)`**                                             | Age                                |
 
-| [others_2019.csv](others_2019.csv)             | Additional information on staff contracts                    |
 
 
 
