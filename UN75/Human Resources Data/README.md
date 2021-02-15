@@ -8,7 +8,7 @@ The data is comprehensively available in the official [CEB Personnel Statistics]
 #### [composition_2019.csv](composition_2019.csv)
 Detailed description of the professionals working for each organization
 
-YEAR,ORG,category,GRADE,SEX
+
 | *Variable*                                            | *Description*                                                | 
 | ----------------------------------------------------- | ------------------------------------------------------------ |
 | **`YEAR`**                                         | Year|
@@ -20,7 +20,7 @@ YEAR,ORG,category,GRADE,SEX
 #### [duty_station_2019.csv](duty_station_2019.csv)
 Information of the professionales working for each organization in each country 
 
-YEAR,ORG,category,GRADE,SEX
+
 | *Variable*                                            | *Description*                                                | 
 | ----------------------------------------------------- | ------------------------------------------------------------ |
 | **`REGION`**                                         | Region i.e Africa |
@@ -33,7 +33,7 @@ YEAR,ORG,category,GRADE,SEX
 
 #### [nationality_2019.csv](nationality_2019.csv)
 
-YEAR,ORG,category,GRADE,SEX
+
 | *Variable*                                            | *Description*                                                | 
 | ----------------------------------------------------- | ------------------------------------------------------------ |
 | **`COUNTRY`**                                         | Name of the country|
@@ -44,7 +44,7 @@ YEAR,ORG,category,GRADE,SEX
 #### [organization_2019.csv](organization_2019.csv)
 Yearly staff count for each UN organization and UN Organization Entity
 
-YEAR,ORG,category,GRADE,SEX
+
 | *Variable*                                            | *Description*                                                | 
 | ----------------------------------------------------- | ------------------------------------------------------------ |
 | **`YEAR`**                                         | Year|
@@ -55,7 +55,7 @@ YEAR,ORG,category,GRADE,SEX
 #### [others_2019.csv](others_2019.csv)
 Additional information on staff contracts      
 
-YEAR,ORG,category,GRADE,SEX
+
 | *Variable*                                            | *Description*                                                | 
 | ----------------------------------------------------- | ------------------------------------------------------------ |
 | **`SEX`**                                         |  Sex of the professional  |
