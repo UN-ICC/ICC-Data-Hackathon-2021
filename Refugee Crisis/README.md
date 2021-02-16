@@ -119,6 +119,31 @@ Dataset including geographic country characteristics
 
 It incorporates country-specific geographical variables for 225 countries in the world, including the geographical coordinates of their capital cities, the languages spoken in the country under different definitions, a variable indicating whether the country is landlocked, and their colonial links
 
+
+| *Variable*                                            | *Description*                                                | 
+| ----------------------------------------------------- | ------------------------------------------------------------ |
+| **`iso2`**                                         |  ISO codes in two characters|
+| **`iso3`**                                  |  ISO codes in three characters    |
+| **`cnum`**                                           | ISO codes in three numbers |
+| **`country`**                                           | Name of country in English                                  |
+| **`pays`**                                           | Name of country in French|
+| **`area`**                                           | Country’s area in km2                                  |
+| **`dis_int`**                                           | Internal distance of country                                |
+| **`landlocked`**                                           |  Dummy variable set equal to 1 for landlocked countries.                                  |
+| **`continent`**                                           | Continent to which the country is belonging                                     |
+| **`city_en`**                                           | Names of capitals or main cities of the country in English                            |
+| **`city_fr`**                                           | Names of capitals or main cities of the country in French                                |
+| **`lat`**                                           | Latitude of the city                               |
+| **`lon`**                                           | Longitude of the city                                       |
+| **`cap`**                                           | Variable equals to 1 if the city is the capital of the country, to 0 if the city is the most populated city (maincity equals to 1) but not the capital, and to 2 in the cases of two capitals, if the city is the most populated but the “second” capital or the previous capital|
+| **`maincity`**                                           | Variable coded as 1 when the city is the most populated of the country and as 2 otherwise|
+| **`citynum`**                                           | Number of cities for each country used to calculate our weighted distances described in the next section|
+| **`langoff_i`**                                           | Official or national languages and languages spoken by at least 20% of the population of the country|
+| **`lang20_i`**                                           |  Languages (mother tongue, lingua francas or second languages) spoken by at least 20% of the population of the country.|
+| **`lang9_i`**                                           | Languages (mother tongue, lingua francas or second languages) spoken by between 9% and 20% of the population of the country|
+| **`colonizeri`**                                           |  Colonizers of the country for a relatively long period of time and with a substantial participation in the governance of the colonized country.|
+| **`short_colonizeri`**                                           |  Colonizers of the country for a relatively short period of time or with only low involvement in the governance of the colonized country|
+
 [Source CEPII](http://www.cepii.fr/)
 
 
