@@ -103,7 +103,7 @@ Dataset including geographic country characteristics
 
 ### Other Datasets
 
-We recommend you to look into the [Additional Datasources](../Additional%20Datasources) folder. All of the datasets contained in the folder can be useful towards the completion of this challenge.
+Look into the [Additional Datasources](../Additional%20Datasources) folder. All of the datasets contained in the folder can be useful towards the completion of this challenge.
 
 #### Recommended external datasources:
 
