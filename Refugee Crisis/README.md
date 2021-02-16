@@ -110,8 +110,7 @@ This dataset is dyadic, in the sense that it includes variables valid for pairs 
 | **`dist`**                                           | Billateral distance between most populated city of each country (km)                                |
 | **`distcap`**                                           | Billateral distance between capitals (km)                                 |
 | **`distw`**                                           | Billateral Population-weighted distance between most populated cities (km)                                 |
-| **`distwces`**                                           | Billateral Population-weighted distance between most populated cities (km) using CES formulation with
-θ = −1
+| **`distwces`**                                           | Billateral Population-weighted distance between most populated cities (km) using CES formulation with θ = −1
 |
 
 [Source CEPII](http://www.cepii.fr/)
