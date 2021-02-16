@@ -19,5 +19,5 @@ Other recommended dataset sources:
   - [UNEP](https://open.unep.org/)
 - Gender equality
   - [UNWOMEN](https://data.unwomen.org/)
-- Human rights and the rule of law
+- Peace, justice and strong institutions
   - [HUMDATA](https://data.humdata.org/dataset)
