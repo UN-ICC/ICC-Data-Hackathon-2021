@@ -95,6 +95,25 @@ Dataset including bilateral distance and other bilateral country characteristics
 
 This dataset is dyadic, in the sense that it includes variables valid for pairs of countries. Distance is the most common example of such a variable, and the file includes different measures of bilateral distances (in kilometers) available for most country pairs across the world.
 
+| *Variable*                                            | *Description*                                                | 
+| ----------------------------------------------------- | ------------------------------------------------------------ |
+| **`iso_o`**                                         | ISO3 alphabetic code of origin |
+| **`iso_d`**                                  | ISO3 alphabetic code of destination       |
+| **`contig`**                                           | Dummy equal to 1 if countries are contiguous  |
+| **`comlang_off`**                                           |  1 if countries share common official or primary language                                   |
+| **`comlang_ethno`**                                           | 1 if countries share a common language spoken by at least 9% of the population|
+| **`colony`**                                           | 1 if they have ever had a colonial link                                  |
+| **`comcol`**                                           | 1 if they have had a common colonizer after 1945                                |
+| **`curcol`**                                           | 1 if they are currently in a colonial relationship                                  |
+| **`col45`**                                           | 1 if they have had colonial relationship after 1945                                     |
+| **`smctry`**                                           | 1 if they were/are the same country                                |
+| **`dist`**                                           | Billateral distance between most populated city of each country (km)                                |
+| **`distcap`**                                           | Billateral distance between capitals (km)                                 |
+| **`distw`**                                           | Billateral Population-weighted distance between most populated cities (km)                                 |
+| **`distwces`**                                           | Billateral Population-weighted distance between most populated cities (km) using CES formulation with
+θ = −1
+|
+
 [Source CEPII](http://www.cepii.fr/)
 
 #### [geo_cepii.dta](geo_cepii.dta) 
