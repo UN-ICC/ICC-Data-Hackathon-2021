@@ -20,4 +20,4 @@ Other recommended dataset sources:
 - Gender equality
   - [UNWOMEN](https://data.unwomen.org/)
 - Peace, justice and strong institutions
-  - [HUMDATA](https://data.humdata.org/dataset)
+  - [OCHA (HUMDATA)](https://data.humdata.org/dataset)
