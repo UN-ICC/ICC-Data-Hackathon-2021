@@ -35,9 +35,7 @@ The United Nations envisions to deliver the following decade of actions - Sustai
 
 - Climate action
 - Gender equality
-- Human rights and the rule of law
-- Peace and security
-
+- Peace, justice and strong institutions
 
 
 With this in mind:
