@@ -93,10 +93,14 @@ Country-level data on terrain ruggedness and other characteristics of countries.
 #### [dist_cepii.dta](dist_cepii.dta)
 Dataset including bilateral distance and other bilateral country characteristics
 
+This dataset is dyadic, in the sense that it includes variables valid for pairs of countries. Distance is the most common example of such a variable, and the file includes different measures of bilateral distances (in kilometers) available for most country pairs across the world.
+
 [Source CEPII](http://www.cepii.fr/)
 
 #### [geo_cepii.dta](geo_cepii.dta) 
 Dataset including geographic country characteristics
+
+It incorporates country-specific geographical variables for 225 countries in the world, including the geographical coordinates of their capital cities, the languages spoken in the country under different definitions, a variable indicating whether the country is landlocked, and their colonial links
 
 [Source CEPII](http://www.cepii.fr/)
 
